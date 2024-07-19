@@ -253,7 +253,7 @@ const outputFilename = "output";
       );
     saveToFiles(
       processedListEnabledClientsForPDAndDiffClientIds,
-      `${outputFilename}_pd_y_diff_where_normAndNonNormAreDifferent`
+      `${outputFilename}_pd_Y_normAndNonNormIDsAreDifferent`
     );
   } catch (error) {
     console.error("Error using the tool:", error);
