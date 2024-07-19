@@ -1,0 +1,1602 @@
+{
+  "95": {
+    "normalizedClientId": "95",
+    "clientId": "P0095",
+    "clientName": "undefined"
+  },
+  "145": {
+    "normalizedClientId": "145",
+    "clientId": "145",
+    "clientName": "undefined"
+  },
+  "175": {
+    "normalizedClientId": "175",
+    "clientId": "175",
+    "clientName": "ADM"
+  },
+  "186": {
+    "normalizedClientId": "186",
+    "clientId": "186",
+    "clientName": "General Mills"
+  },
+  "245": {
+    "normalizedClientId": "245",
+    "clientId": "C0245",
+    "clientName": "United Airlines"
+  },
+  "398": {
+    "normalizedClientId": "398",
+    "clientId": "L0398",
+    "clientName": "Lilly Del Caribe"
+  },
+  "470": {
+    "normalizedClientId": "470",
+    "clientId": "470",
+    "clientName": "Baxter"
+  },
+  "472": {
+    "normalizedClientId": "472",
+    "clientId": "472",
+    "clientName": "Abbott"
+  },
+  "567": {
+    "normalizedClientId": "567",
+    "clientId": "567",
+    "clientName": "U.S. Bank"
+  },
+  "620": {
+    "normalizedClientId": "620",
+    "clientId": "620",
+    "clientName": "SLB"
+  },
+  "632": {
+    "normalizedClientId": "632",
+    "clientId": "632",
+    "clientName": "MetLife - KeyCorp"
+  },
+  "695": {
+    "normalizedClientId": "695",
+    "clientId": "J0695",
+    "clientName": ""
+  },
+  "707": {
+    "normalizedClientId": "707",
+    "clientId": "707",
+    "clientName": "undefined"
+  },
+  "726": {
+    "normalizedClientId": "726",
+    "clientId": "A0726",
+    "clientName": "BP America"
+  },
+  "749": {
+    "normalizedClientId": "749",
+    "clientId": "749",
+    "clientName": "American Airlines"
+  },
+  "892": {
+    "normalizedClientId": "892",
+    "clientId": "892",
+    "clientName": "Sherwin-Williams"
+  },
+  "936": {
+    "normalizedClientId": "936",
+    "clientId": "D0936",
+    "clientName": "Target"
+  },
+  "981": {
+    "normalizedClientId": "981",
+    "clientId": "A0981",
+    "clientName": "Aetna"
+  },
+  "982": {
+    "normalizedClientId": "982",
+    "clientId": "982",
+    "clientName": ""
+  },
+  "990": {
+    "normalizedClientId": "990",
+    "clientId": "990",
+    "clientName": "Securitas"
+  },
+  "994": {
+    "normalizedClientId": "994",
+    "clientId": "H0994",
+    "clientName": "John Hancock"
+  },
+  "1012": {
+    "normalizedClientId": "1012",
+    "clientId": "1012",
+    "clientName": "The Cigna Group"
+  },
+  "1040": {
+    "normalizedClientId": "1040",
+    "clientId": "1040",
+    "clientName": "Walgreens Family of Companies"
+  },
+  "1092": {
+    "normalizedClientId": "1092",
+    "clientId": "1092",
+    "clientName": "Cummins Inc."
+  },
+  "1122": {
+    "normalizedClientId": "1122",
+    "clientId": "1122",
+    "clientName": "Land O'Lakes"
+  },
+  "1141": {
+    "normalizedClientId": "1141",
+    "clientId": "J1141",
+    "clientName": "Johnson Controls, Inc."
+  },
+  "1165": {
+    "normalizedClientId": "1165",
+    "clientId": "1165",
+    "clientName": "EssilorLuxottica"
+  },
+  "1211": {
+    "normalizedClientId": "1211",
+    "clientId": "1211",
+    "clientName": "MetLife - Colgate-Palmolive"
+  },
+  "1215": {
+    "normalizedClientId": "1215",
+    "clientId": "U1215",
+    "clientName": "United Parcel Service"
+  },
+  "1250": {
+    "normalizedClientId": "1250",
+    "clientId": "1250",
+    "clientName": "Employer"
+  },
+  "1283": {
+    "normalizedClientId": "1283",
+    "clientId": "1283",
+    "clientName": "State Farm Insurance"
+  },
+  "1340": {
+    "normalizedClientId": "1340",
+    "clientId": "1340",
+    "clientName": "Motorola Solutions"
+  },
+  "1362": {
+    "normalizedClientId": "1362",
+    "clientId": "1362",
+    "clientName": "McKesson"
+  },
+  "1366": {
+    "normalizedClientId": "1366",
+    "clientId": "1366",
+    "clientName": "International Paper"
+  },
+  "1377": {
+    "normalizedClientId": "1377",
+    "clientId": "C1377",
+    "clientName": "Dominion Energy"
+  },
+  "1426": {
+    "normalizedClientId": "1426",
+    "clientId": "1426",
+    "clientName": "First American"
+  },
+  "1433": {
+    "normalizedClientId": "1433",
+    "clientId": "1433",
+    "clientName": "Deluxe Corporation"
+  },
+  "1442": {
+    "normalizedClientId": "1442",
+    "clientId": "C1442",
+    "clientName": "CNA"
+  },
+  "1479": {
+    "normalizedClientId": "1479",
+    "clientId": "1479",
+    "clientName": "WestRock"
+  },
+  "1487": {
+    "normalizedClientId": "1487",
+    "clientId": "N1487",
+    "clientName": ""
+  },
+  "1488": {
+    "normalizedClientId": "1488",
+    "clientId": "C1488",
+    "clientName": "Citi"
+  },
+  "1526": {
+    "normalizedClientId": "1526",
+    "clientId": "F1526",
+    "clientName": "Federal Reserve Employee Benefits System"
+  },
+  "1576": {
+    "normalizedClientId": "1576",
+    "clientId": "1576",
+    "clientName": "Deere & Company"
+  },
+  "1634": {
+    "normalizedClientId": "1634",
+    "clientId": "1634",
+    "clientName": "Graphic Packaging Int'l, Inc."
+  },
+  "1638": {
+    "normalizedClientId": "1638",
+    "clientId": "1638",
+    "clientName": ""
+  },
+  "1645": {
+    "normalizedClientId": "1645",
+    "clientId": "1645",
+    "clientName": "AMEX"
+  },
+  "1656": {
+    "normalizedClientId": "1656",
+    "clientId": "1656",
+    "clientName": "undefined"
+  },
+  "1694": {
+    "normalizedClientId": "1694",
+    "clientId": "1694",
+    "clientName": "Caesars Entertainment"
+  },
+  "1697": {
+    "normalizedClientId": "1697",
+    "clientId": "N1697",
+    "clientName": "MetLife - Novartis"
+  },
+  "1698": {
+    "normalizedClientId": "1698",
+    "clientId": "1698",
+    "clientName": ""
+  },
+  "1700": {
+    "normalizedClientId": "1700",
+    "clientId": "1700",
+    "clientName": "Ford Motor Company"
+  },
+  "1711": {
+    "normalizedClientId": "1711",
+    "clientId": "1711",
+    "clientName": "Corteva Agriscience"
+  },
+  "1725": {
+    "normalizedClientId": "1725",
+    "clientId": "1725",
+    "clientName": ""
+  },
+  "1762": {
+    "normalizedClientId": "1762",
+    "clientId": "1762",
+    "clientName": "L3Harris Technologies"
+  },
+  "1782": {
+    "normalizedClientId": "1782",
+    "clientId": "1782",
+    "clientName": ""
+  },
+  "1803": {
+    "normalizedClientId": "1803",
+    "clientId": "1803",
+    "clientName": "Wells Fargo"
+  },
+  "1808": {
+    "normalizedClientId": "1808",
+    "clientId": "A1808",
+    "clientName": "Allstate Corporation"
+  },
+  "1860": {
+    "normalizedClientId": "1860",
+    "clientId": "T1860",
+    "clientName": "Telephone Data Systems Inc"
+  },
+  "1874": {
+    "normalizedClientId": "1874",
+    "clientId": "1874",
+    "clientName": "Grainger"
+  },
+  "1881": {
+    "normalizedClientId": "1881",
+    "clientId": "B1881",
+    "clientName": "BMO"
+  },
+  "1892": {
+    "normalizedClientId": "1892",
+    "clientId": "1892",
+    "clientName": "GRACE"
+  },
+  "1909": {
+    "normalizedClientId": "1909",
+    "clientId": "S1909",
+    "clientName": ""
+  },
+  "1924": {
+    "normalizedClientId": "1924",
+    "clientId": "1924",
+    "clientName": "Equitable Holdings, Inc"
+  },
+  "1955": {
+    "normalizedClientId": "1955",
+    "clientId": "16757",
+    "clientName": "Campbell"
+  },
+  "1971": {
+    "normalizedClientId": "1971",
+    "clientId": "1971",
+    "clientName": "Morgan Stanley"
+  },
+  "1995": {
+    "normalizedClientId": "1995",
+    "clientId": "1995",
+    "clientName": ""
+  },
+  "2009": {
+    "normalizedClientId": "2009",
+    "clientId": "2009",
+    "clientName": "Parker-Hannifin"
+  },
+  "2017": {
+    "normalizedClientId": "2017",
+    "clientId": "2017",
+    "clientName": "CenterPoint Energy"
+  },
+  "2154": {
+    "normalizedClientId": "2154",
+    "clientId": "2154",
+    "clientName": "Navistar, Inc."
+  },
+  "2215": {
+    "normalizedClientId": "2215",
+    "clientId": "2215",
+    "clientName": ""
+  },
+  "2233": {
+    "normalizedClientId": "2233",
+    "clientId": "2233",
+    "clientName": ""
+  },
+  "2265": {
+    "normalizedClientId": "2265",
+    "clientId": "2265",
+    "clientName": "Lincoln National"
+  },
+  "2267": {
+    "normalizedClientId": "2267",
+    "clientId": "2267",
+    "clientName": "MassMutual"
+  },
+  "2274": {
+    "normalizedClientId": "2274",
+    "clientId": "2274",
+    "clientName": ""
+  },
+  "2292": {
+    "normalizedClientId": "2292",
+    "clientId": "N2292",
+    "clientName": "New York Life"
+  },
+  "2346": {
+    "normalizedClientId": "2346",
+    "clientId": "B2346",
+    "clientName": "BOEING"
+  },
+  "2358": {
+    "normalizedClientId": "2358",
+    "clientId": "C2358",
+    "clientName": "Caterpillar"
+  },
+  "2360": {
+    "normalizedClientId": "2360",
+    "clientId": "2360",
+    "clientName": "Macy's Inc."
+  },
+  "2378": {
+    "normalizedClientId": "2378",
+    "clientId": "A2378",
+    "clientName": "Arconic"
+  },
+  "2461": {
+    "normalizedClientId": "2461",
+    "clientId": "2461",
+    "clientName": "Unisys"
+  },
+  "2490": {
+    "normalizedClientId": "2490",
+    "clientId": "2490",
+    "clientName": ""
+  },
+  "2491": {
+    "normalizedClientId": "2491",
+    "clientId": "G2491",
+    "clientName": ""
+  },
+  "2496": {
+    "normalizedClientId": "2496",
+    "clientId": "P2496",
+    "clientName": "UBS"
+  },
+  "2524": {
+    "normalizedClientId": "2524",
+    "clientId": "J2524",
+    "clientName": ""
+  },
+  "2525": {
+    "normalizedClientId": "2525",
+    "clientId": "2525",
+    "clientName": "Rockwell Automation"
+  },
+  "2553": {
+    "normalizedClientId": "2553",
+    "clientId": "2553",
+    "clientName": "Barclays"
+  },
+  "2558": {
+    "normalizedClientId": "2558",
+    "clientId": "2558",
+    "clientName": "Greif Inc."
+  },
+  "2635": {
+    "normalizedClientId": "2635",
+    "clientId": "2635",
+    "clientName": "Henry Ford Health System"
+  },
+  "2688": {
+    "normalizedClientId": "2688",
+    "clientId": "2688",
+    "clientName": "Northwestern Mutual"
+  },
+  "2694": {
+    "normalizedClientId": "2694",
+    "clientId": "2694",
+    "clientName": "ExxonMobil"
+  },
+  "2729": {
+    "normalizedClientId": "2729",
+    "clientId": "2729",
+    "clientName": "Transocean"
+  },
+  "2789": {
+    "normalizedClientId": "2789",
+    "clientId": "2789",
+    "clientName": "BNY MELLON"
+  },
+  "2799": {
+    "normalizedClientId": "2799",
+    "clientId": "2799",
+    "clientName": "Henkel Corporation"
+  },
+  "2840": {
+    "normalizedClientId": "2840",
+    "clientId": "M2840",
+    "clientName": "Mattel, Inc."
+  },
+  "2865": {
+    "normalizedClientId": "2865",
+    "clientId": "2865",
+    "clientName": "DTE Energy"
+  },
+  "2878": {
+    "normalizedClientId": "2878",
+    "clientId": "2878",
+    "clientName": "Procter & Gamble"
+  },
+  "2936": {
+    "normalizedClientId": "2936",
+    "clientId": "2936",
+    "clientName": "Wolters Kluwer"
+  },
+  "2961": {
+    "normalizedClientId": "2961",
+    "clientId": "2961",
+    "clientName": "ACCO"
+  },
+  "3060": {
+    "normalizedClientId": "3060",
+    "clientId": "3060",
+    "clientName": "Dole"
+  },
+  "3099": {
+    "normalizedClientId": "3099",
+    "clientId": "3099",
+    "clientName": ""
+  },
+  "3102": {
+    "normalizedClientId": "3102",
+    "clientId": "I3102",
+    "clientName": "Ricoh USA, Inc."
+  },
+  "3149": {
+    "normalizedClientId": "3149",
+    "clientId": "3149",
+    "clientName": "Martin Marietta"
+  },
+  "3177": {
+    "normalizedClientId": "3177",
+    "clientId": "3177",
+    "clientName": "Hyatt"
+  },
+  "3207": {
+    "normalizedClientId": "3207",
+    "clientId": "3207",
+    "clientName": "Entergy"
+  },
+  "3223": {
+    "normalizedClientId": "3223",
+    "clientId": "G3223",
+    "clientName": ""
+  },
+  "3239": {
+    "normalizedClientId": "3239",
+    "clientId": "3239",
+    "clientName": "Analog Devices, Inc"
+  },
+  "3247": {
+    "normalizedClientId": "3247",
+    "clientId": "3247",
+    "clientName": "Fannie Mae"
+  },
+  "3266": {
+    "normalizedClientId": "3266",
+    "clientId": "3266",
+    "clientName": "Swiss Re"
+  },
+  "3326": {
+    "normalizedClientId": "3326",
+    "clientId": "3326",
+    "clientName": "Lumbermens Mutual Casualty"
+  },
+  "3349": {
+    "normalizedClientId": "3349",
+    "clientId": "S3349",
+    "clientName": "AT&T"
+  },
+  "3356": {
+    "normalizedClientId": "3356",
+    "clientId": "3356",
+    "clientName": ""
+  },
+  "3377": {
+    "normalizedClientId": "3377",
+    "clientId": "3377",
+    "clientName": "HSBC"
+  },
+  "3406": {
+    "normalizedClientId": "3406",
+    "clientId": "3406",
+    "clientName": "Roche"
+  },
+  "3501": {
+    "normalizedClientId": "3501",
+    "clientId": "3501",
+    "clientName": "McKinsey"
+  },
+  "3537": {
+    "normalizedClientId": "3537",
+    "clientId": "S3537",
+    "clientName": "Siemens Corporation"
+  },
+  "3742": {
+    "normalizedClientId": "3742",
+    "clientId": "3742",
+    "clientName": "UnitedHealth Group"
+  },
+  "3843": {
+    "normalizedClientId": "3843",
+    "clientId": "3843",
+    "clientName": ""
+  },
+  "3860": {
+    "normalizedClientId": "3860",
+    "clientId": "3860",
+    "clientName": "Waste Management"
+  },
+  "3889": {
+    "normalizedClientId": "3889",
+    "clientId": "3889",
+    "clientName": "State of Georgia"
+  },
+  "3902": {
+    "normalizedClientId": "3902",
+    "clientId": "3902",
+    "clientName": "GlaxoSmithKline"
+  },
+  "3944": {
+    "normalizedClientId": "3944",
+    "clientId": "3944",
+    "clientName": "Ryder"
+  },
+  "3955": {
+    "normalizedClientId": "3955",
+    "clientId": "3955",
+    "clientName": "Exelon Corporation"
+  },
+  "3974": {
+    "normalizedClientId": "3974",
+    "clientId": "3974",
+    "clientName": "Nordstrom"
+  },
+  "3979": {
+    "normalizedClientId": "3979",
+    "clientId": "3979",
+    "clientName": "Lowe's"
+  },
+  "4269": {
+    "normalizedClientId": "4269",
+    "clientId": "4269",
+    "clientName": "PNC Financial"
+  },
+  "4471": {
+    "normalizedClientId": "4471",
+    "clientId": "4471",
+    "clientName": "FedEx Corporation"
+  },
+  "4496": {
+    "normalizedClientId": "4496",
+    "clientId": "4496",
+    "clientName": "AIG"
+  },
+  "4508": {
+    "normalizedClientId": "4508",
+    "clientId": "E4508",
+    "clientName": "EY"
+  },
+  "4533": {
+    "normalizedClientId": "4533",
+    "clientId": "4533",
+    "clientName": "Capital Group"
+  },
+  "4546": {
+    "normalizedClientId": "4546",
+    "clientId": "4546",
+    "clientName": "Sutter Health"
+  },
+  "4693": {
+    "normalizedClientId": "4693",
+    "clientId": "4693",
+    "clientName": "Goodyear Tire & Rubber Company"
+  },
+  "4739": {
+    "normalizedClientId": "4739",
+    "clientId": "4739",
+    "clientName": "Zimmer Biomet"
+  },
+  "4777": {
+    "normalizedClientId": "4777",
+    "clientId": "4777",
+    "clientName": "GE HealthCare"
+  },
+  "4844": {
+    "normalizedClientId": "4844",
+    "clientId": "4844",
+    "clientName": "MetLife - National Grid USA"
+  },
+  "4853": {
+    "normalizedClientId": "4853",
+    "clientId": "4853",
+    "clientName": ""
+  },
+  "4881": {
+    "normalizedClientId": "4881",
+    "clientId": "A4881",
+    "clientName": "AHRP"
+  },
+  "5035": {
+    "normalizedClientId": "5035",
+    "clientId": "5035",
+    "clientName": "Hubbell"
+  },
+  "5063": {
+    "normalizedClientId": "5063",
+    "clientId": "5063",
+    "clientName": "Puget Sound Energy"
+  },
+  "5077": {
+    "normalizedClientId": "5077",
+    "clientId": "5077",
+    "clientName": "Solvay"
+  },
+  "5094": {
+    "normalizedClientId": "5094",
+    "clientId": "C5094",
+    "clientName": "Cardinal Health, Inc."
+  },
+  "5317": {
+    "normalizedClientId": "5317",
+    "clientId": "5317",
+    "clientName": "Estee Lauder"
+  },
+  "5434": {
+    "normalizedClientId": "5434",
+    "clientId": "5434",
+    "clientName": "Prudential Financial"
+  },
+  "5551": {
+    "normalizedClientId": "5551",
+    "clientId": "5551",
+    "clientName": "ATI"
+  },
+  "5561": {
+    "normalizedClientId": "5561",
+    "clientId": "5561",
+    "clientName": "FINRA"
+  },
+  "5562": {
+    "normalizedClientId": "5562",
+    "clientId": "5562",
+    "clientName": "undefined"
+  },
+  "5565": {
+    "normalizedClientId": "5565",
+    "clientId": "5565",
+    "clientName": "Hines"
+  },
+  "5749": {
+    "normalizedClientId": "5749",
+    "clientId": "5749",
+    "clientName": "HWE Canada Premier 1"
+  },
+  "5785": {
+    "normalizedClientId": "5785",
+    "clientId": "5785",
+    "clientName": "Applied Materials"
+  },
+  "5790": {
+    "normalizedClientId": "5790",
+    "clientId": "5790",
+    "clientName": "Honda"
+  },
+  "5866": {
+    "normalizedClientId": "5866",
+    "clientId": "C5866",
+    "clientName": ""
+  },
+  "5888": {
+    "normalizedClientId": "5888",
+    "clientId": "H5888",
+    "clientName": "Home Depot"
+  },
+  "5911": {
+    "normalizedClientId": "5911",
+    "clientId": "D5911",
+    "clientName": "undefined"
+  },
+  "5923": {
+    "normalizedClientId": "5923",
+    "clientId": "C5923",
+    "clientName": ""
+  },
+  "5977": {
+    "normalizedClientId": "5977",
+    "clientId": "D5977",
+    "clientName": ""
+  },
+  "5987": {
+    "normalizedClientId": "5987",
+    "clientId": "5987",
+    "clientName": "CIBC"
+  },
+  "6028": {
+    "normalizedClientId": "6028",
+    "clientId": "6028",
+    "clientName": "Rhode Island Energy"
+  },
+  "6223": {
+    "normalizedClientId": "6223",
+    "clientId": "6223",
+    "clientName": "BMC Software, Inc."
+  },
+  "6352": {
+    "normalizedClientId": "6352",
+    "clientId": "6352",
+    "clientName": "undefined"
+  },
+  "6404": {
+    "normalizedClientId": "6404",
+    "clientId": "6404",
+    "clientName": "Voya Financial"
+  },
+  "6597": {
+    "normalizedClientId": "6597",
+    "clientId": "D6597",
+    "clientName": "Deutsche Bank"
+  },
+  "6607": {
+    "normalizedClientId": "6607",
+    "clientId": "6607",
+    "clientName": "Starbucks"
+  },
+  "6678": {
+    "normalizedClientId": "6678",
+    "clientId": "6678",
+    "clientName": "Ally Financial"
+  },
+  "6749": {
+    "normalizedClientId": "6749",
+    "clientId": "6749",
+    "clientName": "ABB, Inc."
+  },
+  "6773": {
+    "normalizedClientId": "6773",
+    "clientId": "6773",
+    "clientName": "Amgen Manufacturing Limited LLC"
+  },
+  "6957": {
+    "normalizedClientId": "6957",
+    "clientId": "T6957",
+    "clientName": "Thomson Reuters"
+  },
+  "7263": {
+    "normalizedClientId": "7263",
+    "clientId": "7263",
+    "clientName": "MetLife - US Foods"
+  },
+  "7265": {
+    "normalizedClientId": "7265",
+    "clientId": "7265",
+    "clientName": "OSRAM SYLVANIA"
+  },
+  "7349": {
+    "normalizedClientId": "7349",
+    "clientId": "7349",
+    "clientName": "Sun Chemical Corporation"
+  },
+  "7434": {
+    "normalizedClientId": "7434",
+    "clientId": "7434",
+    "clientName": "undefined"
+  },
+  "7509": {
+    "normalizedClientId": "7509",
+    "clientId": "7509",
+    "clientName": "Ontario Lottery and GamingCorp"
+  },
+  "7527": {
+    "normalizedClientId": "7527",
+    "clientId": "7527",
+    "clientName": "undefined"
+  },
+  "7538": {
+    "normalizedClientId": "7538",
+    "clientId": "7538",
+    "clientName": "CVS Health"
+  },
+  "7544": {
+    "normalizedClientId": "7544",
+    "clientId": "7544",
+    "clientName": ""
+  },
+  "7641": {
+    "normalizedClientId": "7641",
+    "clientId": "7641",
+    "clientName": "Cisco"
+  },
+  "7796": {
+    "normalizedClientId": "7796",
+    "clientId": "7796",
+    "clientName": "Koch Industries"
+  },
+  "7812": {
+    "normalizedClientId": "7812",
+    "clientId": "7812",
+    "clientName": "PricewaterhouseCoopers LLP"
+  },
+  "7825": {
+    "normalizedClientId": "7825",
+    "clientId": "U7825",
+    "clientName": ""
+  },
+  "7961": {
+    "normalizedClientId": "7961",
+    "clientId": "7961",
+    "clientName": "MetLife - Airgas, Inc."
+  },
+  "8041": {
+    "normalizedClientId": "8041",
+    "clientId": "8041",
+    "clientName": "Lumen"
+  },
+  "8053": {
+    "normalizedClientId": "8053",
+    "clientId": "8053",
+    "clientName": "Sodexo"
+  },
+  "8086": {
+    "normalizedClientId": "8086",
+    "clientId": "A8086",
+    "clientName": "Accenture"
+  },
+  "8101": {
+    "normalizedClientId": "8101",
+    "clientId": "W8101",
+    "clientName": ""
+  },
+  "8141": {
+    "normalizedClientId": "8141",
+    "clientId": "8141",
+    "clientName": ""
+  },
+  "8353": {
+    "normalizedClientId": "8353",
+    "clientId": "P8353",
+    "clientName": "PCA-Packaging Corp of America"
+  },
+  "8397": {
+    "normalizedClientId": "8397",
+    "clientId": "8397",
+    "clientName": "Experian"
+  },
+  "8478": {
+    "normalizedClientId": "8478",
+    "clientId": "8478",
+    "clientName": "AutoNation"
+  },
+  "8666": {
+    "normalizedClientId": "8666",
+    "clientId": "8666",
+    "clientName": "Best Buy Co., Inc."
+  },
+  "8673": {
+    "normalizedClientId": "8673",
+    "clientId": "8673",
+    "clientName": "RELX Inc."
+  },
+  "8853": {
+    "normalizedClientId": "8853",
+    "clientId": "8853",
+    "clientName": "BAE Systems"
+  },
+  "8921": {
+    "normalizedClientId": "8921",
+    "clientId": "8921",
+    "clientName": "Intuit"
+  },
+  "9086": {
+    "normalizedClientId": "9086",
+    "clientId": "9086",
+    "clientName": "T-Mobile USA"
+  },
+  "9159": {
+    "normalizedClientId": "9159",
+    "clientId": "9159",
+    "clientName": "Ryman Hospitality Properties"
+  },
+  "9252": {
+    "normalizedClientId": "9252",
+    "clientId": "9252",
+    "clientName": "TechnipFMC"
+  },
+  "9264": {
+    "normalizedClientId": "9264",
+    "clientId": "9264",
+    "clientName": "Stericycle"
+  },
+  "9301": {
+    "normalizedClientId": "9301",
+    "clientId": "9301",
+    "clientName": "Genuine Parts Company"
+  },
+  "9345": {
+    "normalizedClientId": "9345",
+    "clientId": "9345",
+    "clientName": "Kimberly Clark"
+  },
+  "9408": {
+    "normalizedClientId": "9408",
+    "clientId": "9408",
+    "clientName": "Siemens Healthineers"
+  },
+  "9429": {
+    "normalizedClientId": "9429",
+    "clientId": "9429",
+    "clientName": ""
+  },
+  "9529": {
+    "normalizedClientId": "9529",
+    "clientId": "9529",
+    "clientName": "QRG"
+  },
+  "9571": {
+    "normalizedClientId": "9571",
+    "clientId": "9571",
+    "clientName": "TOTAL Affiliates"
+  },
+  "9796": {
+    "normalizedClientId": "9796",
+    "clientId": "9796",
+    "clientName": "Honeywell"
+  },
+  "9813": {
+    "normalizedClientId": "9813",
+    "clientId": "9813",
+    "clientName": "JPMorgan Chase"
+  },
+  "9852": {
+    "normalizedClientId": "9852",
+    "clientId": "9852",
+    "clientName": "AECOM"
+  },
+  "9950": {
+    "normalizedClientId": "9950",
+    "clientId": "9950",
+    "clientName": "TC Energy"
+  },
+  "10020": {
+    "normalizedClientId": "10020",
+    "clientId": "10020",
+    "clientName": "Novartis"
+  },
+  "10050": {
+    "normalizedClientId": "10050",
+    "clientId": "10050",
+    "clientName": "Danaher"
+  },
+  "10162": {
+    "normalizedClientId": "10162",
+    "clientId": "10162",
+    "clientName": "Cintas Corporation"
+  },
+  "10197": {
+    "normalizedClientId": "10197",
+    "clientId": "10197",
+    "clientName": ""
+  },
+  "10272": {
+    "normalizedClientId": "10272",
+    "clientId": "10272",
+    "clientName": "Iberdrola USA"
+  },
+  "10557": {
+    "normalizedClientId": "10557",
+    "clientId": "10557",
+    "clientName": "Genworth Financial"
+  },
+  "10611": {
+    "normalizedClientId": "10611",
+    "clientId": "10611",
+    "clientName": "Jones Lang LaSalle"
+  },
+  "10645": {
+    "normalizedClientId": "10645",
+    "clientId": "10645",
+    "clientName": "undefined"
+  },
+  "10678": {
+    "normalizedClientId": "10678",
+    "clientId": "10678",
+    "clientName": "Chipotle"
+  },
+  "10688": {
+    "normalizedClientId": "10688",
+    "clientId": "10688",
+    "clientName": "Cisco"
+  },
+  "10801": {
+    "normalizedClientId": "10801",
+    "clientId": "10801",
+    "clientName": "Expedia"
+  },
+  "10820": {
+    "normalizedClientId": "10820",
+    "clientId": "10820",
+    "clientName": "Discover Financial Services"
+  },
+  "10825": {
+    "normalizedClientId": "10825",
+    "clientId": "10825",
+    "clientName": "Reynolds American"
+  },
+  "10840": {
+    "normalizedClientId": "10840",
+    "clientId": "10840",
+    "clientName": "eBay Inc."
+  },
+  "11899": {
+    "normalizedClientId": "11899",
+    "clientId": "11899",
+    "clientName": "Ameriprise Financial"
+  },
+  "12282": {
+    "normalizedClientId": "12282",
+    "clientId": "12282",
+    "clientName": "Highmark Health"
+  },
+  "12314": {
+    "normalizedClientId": "12314",
+    "clientId": "12314",
+    "clientName": "Mr. Cooper Group"
+  },
+  "12467": {
+    "normalizedClientId": "12467",
+    "clientId": "12467",
+    "clientName": "BlackRock"
+  },
+  "12868": {
+    "normalizedClientId": "12868",
+    "clientId": "12868",
+    "clientName": "Sharp HealthCare"
+  },
+  "12909": {
+    "normalizedClientId": "12909",
+    "clientId": "12909",
+    "clientName": "MetLife - Purposecare Homecare, LLC"
+  },
+  "13074": {
+    "normalizedClientId": "13074",
+    "clientId": "13074",
+    "clientName": "Change Healthcare LLC"
+  },
+  "13599": {
+    "normalizedClientId": "13599",
+    "clientId": "13599",
+    "clientName": "Dematic"
+  },
+  "14086": {
+    "normalizedClientId": "14086",
+    "clientId": "14086",
+    "clientName": "MUFG"
+  },
+  "14470": {
+    "normalizedClientId": "14470",
+    "clientId": "14470",
+    "clientName": ""
+  },
+  "14552": {
+    "normalizedClientId": "14552",
+    "clientId": "14552",
+    "clientName": "FirstGroup America"
+  },
+  "14671": {
+    "normalizedClientId": "14671",
+    "clientId": "14671",
+    "clientName": ""
+  },
+  "15050": {
+    "normalizedClientId": "15050",
+    "clientId": "15050",
+    "clientName": "CoreLogic"
+  },
+  "15354": {
+    "normalizedClientId": "15354",
+    "clientId": "15354",
+    "clientName": "undefined"
+  },
+  "15625": {
+    "normalizedClientId": "15625",
+    "clientId": "15625",
+    "clientName": "Leonardo DRS"
+  },
+  "15757": {
+    "normalizedClientId": "15757",
+    "clientId": "15757",
+    "clientName": ""
+  },
+  "16418": {
+    "normalizedClientId": "16418",
+    "clientId": "16418",
+    "clientName": "Phillips 66"
+  },
+  "16433": {
+    "normalizedClientId": "16433",
+    "clientId": "16433",
+    "clientName": "Air Canada"
+  },
+  "16444": {
+    "normalizedClientId": "16444",
+    "clientId": "16444",
+    "clientName": "Chubb"
+  },
+  "16449": {
+    "normalizedClientId": "16449",
+    "clientId": "16449",
+    "clientName": "AbbVie"
+  },
+  "16465": {
+    "normalizedClientId": "16465",
+    "clientId": "16465",
+    "clientName": "Saudi Aramco"
+  },
+  "16469": {
+    "normalizedClientId": "16469",
+    "clientId": "16469",
+    "clientName": "NFL Player Benefits"
+  },
+  "16502": {
+    "normalizedClientId": "16502",
+    "clientId": "16502",
+    "clientName": "Envoy"
+  },
+  "16506": {
+    "normalizedClientId": "16506",
+    "clientId": "16506",
+    "clientName": "Consolidated Nuclear Security"
+  },
+  "16512": {
+    "normalizedClientId": "16512",
+    "clientId": "16512",
+    "clientName": "American Express GBT"
+  },
+  "16513": {
+    "normalizedClientId": "16513",
+    "clientId": "16513",
+    "clientName": "undefined"
+  },
+  "16516": {
+    "normalizedClientId": "16516",
+    "clientId": "16516",
+    "clientName": "PayPal Inc."
+  },
+  "16517": {
+    "normalizedClientId": "16517",
+    "clientId": "16517",
+    "clientName": "Lineage Logistics"
+  },
+  "16521": {
+    "normalizedClientId": "16521",
+    "clientId": "16521",
+    "clientName": "Synchrony Financial"
+  },
+  "16528": {
+    "normalizedClientId": "16528",
+    "clientId": "16528",
+    "clientName": "Board of Regents, University System of Georgia"
+  },
+  "16551": {
+    "normalizedClientId": "16551",
+    "clientId": "16551",
+    "clientName": "LEDVANCE LLC"
+  },
+  "16557": {
+    "normalizedClientId": "16557",
+    "clientId": "16557",
+    "clientName": "Alcoa"
+  },
+  "16574": {
+    "normalizedClientId": "16574",
+    "clientId": "16574",
+    "clientName": "Vitro"
+  },
+  "16578": {
+    "normalizedClientId": "16578",
+    "clientId": "16578",
+    "clientName": "Siemens Wind Power Inc."
+  },
+  "16581": {
+    "normalizedClientId": "16581",
+    "clientId": "16581",
+    "clientName": "Alight Solutions"
+  },
+  "16600": {
+    "normalizedClientId": "16600",
+    "clientId": "16600",
+    "clientName": "WeWork"
+  },
+  "16611": {
+    "normalizedClientId": "16611",
+    "clientId": "16611",
+    "clientName": "Mass General Brigham"
+  },
+  "16623": {
+    "normalizedClientId": "16623",
+    "clientId": "16623",
+    "clientName": "Athene"
+  },
+  "16648": {
+    "normalizedClientId": "16648",
+    "clientId": "16648",
+    "clientName": "undefined"
+  },
+  "16649": {
+    "normalizedClientId": "16649",
+    "clientId": "16649",
+    "clientName": "GE Appliances"
+  },
+  "16653": {
+    "normalizedClientId": "16653",
+    "clientId": "16653",
+    "clientName": "Salesforce"
+  },
+  "16662": {
+    "normalizedClientId": "16662",
+    "clientId": "16662",
+    "clientName": ""
+  },
+  "16670": {
+    "normalizedClientId": "16670",
+    "clientId": "16670",
+    "clientName": "WIPRO"
+  },
+  "16672": {
+    "normalizedClientId": "16672",
+    "clientId": "16672",
+    "clientName": "Refinitiv"
+  },
+  "16693": {
+    "normalizedClientId": "16693",
+    "clientId": "16693",
+    "clientName": "Hewlett Packard Enterprise (HPE)"
+  },
+  "16701": {
+    "normalizedClientId": "16701",
+    "clientId": "16701",
+    "clientName": "Transformco"
+  },
+  "16707": {
+    "normalizedClientId": "16707",
+    "clientId": "16707",
+    "clientName": "Junta de Retiro"
+  },
+  "16711": {
+    "normalizedClientId": "16711",
+    "clientId": "16711",
+    "clientName": "Heidelberg Materials US"
+  },
+  "16712": {
+    "normalizedClientId": "16712",
+    "clientId": "16712",
+    "clientName": "Nordstrom"
+  },
+  "16716": {
+    "normalizedClientId": "16716",
+    "clientId": "16716",
+    "clientName": ""
+  },
+  "16717": {
+    "normalizedClientId": "16717",
+    "clientId": "16717",
+    "clientName": ""
+  },
+  "16725": {
+    "normalizedClientId": "16725",
+    "clientId": "16725",
+    "clientName": "County of Orange"
+  },
+  "16728": {
+    "normalizedClientId": "16728",
+    "clientId": "16728",
+    "clientName": "Hendrick Automotive"
+  },
+  "16731": {
+    "normalizedClientId": "16731",
+    "clientId": "16731",
+    "clientName": "Howmet Aerospace"
+  },
+  "16741": {
+    "normalizedClientId": "16741",
+    "clientId": "16741",
+    "clientName": "CARD"
+  },
+  "16742": {
+    "normalizedClientId": "16742",
+    "clientId": "16742",
+    "clientName": "DNow"
+  },
+  "16744": {
+    "normalizedClientId": "16744",
+    "clientId": "16744",
+    "clientName": "Nationwide"
+  },
+  "16747": {
+    "normalizedClientId": "16747",
+    "clientId": "16747",
+    "clientName": "State Street Bank"
+  },
+  "16750": {
+    "normalizedClientId": "16750",
+    "clientId": "16750",
+    "clientName": "DTCC"
+  },
+  "16754": {
+    "normalizedClientId": "16754",
+    "clientId": "16754",
+    "clientName": "Siemens Energy"
+  },
+  "16815": {
+    "normalizedClientId": "16815",
+    "clientId": "16815",
+    "clientName": "HCSC - Clarios"
+  },
+  "16847": {
+    "normalizedClientId": "16847",
+    "clientId": "16847",
+    "clientName": "Brighthouse Financial"
+  },
+  "16878": {
+    "normalizedClientId": "16878",
+    "clientId": "16878",
+    "clientName": "Thermo Fisher Scientific"
+  },
+  "16880": {
+    "normalizedClientId": "16880",
+    "clientId": "16880",
+    "clientName": "LENDMARK"
+  },
+  "16896": {
+    "normalizedClientId": "16896",
+    "clientId": "16896",
+    "clientName": ""
+  },
+  "16933": {
+    "normalizedClientId": "16933",
+    "clientId": "16933",
+    "clientName": "Stanford Hospital & Clinics"
+  },
+  "16958": {
+    "normalizedClientId": "16958",
+    "clientId": "16958",
+    "clientName": ""
+  },
+  "16985": {
+    "normalizedClientId": "16985",
+    "clientId": "16985",
+    "clientName": "HelloFresh"
+  },
+  "16988": {
+    "normalizedClientId": "16988",
+    "clientId": "16988",
+    "clientName": "Markel"
+  },
+  "17432": {
+    "normalizedClientId": "17432",
+    "clientId": "17432",
+    "clientName": "F&G"
+  },
+  "17476": {
+    "normalizedClientId": "17476",
+    "clientId": "17476",
+    "clientName": "Victoria's Secret"
+  },
+  "17478": {
+    "normalizedClientId": "17478",
+    "clientId": "17478",
+    "clientName": "Sylvamo"
+  },
+  "17500": {
+    "normalizedClientId": "17500",
+    "clientId": "17500",
+    "clientName": "ZimVie"
+  },
+  "17520": {
+    "normalizedClientId": "17520",
+    "clientId": "17520",
+    "clientName": "Elara Caring"
+  },
+  "17521": {
+    "normalizedClientId": "17521",
+    "clientId": "17521",
+    "clientName": "HCSC - Constellation Energy Corporation"
+  },
+  "17524": {
+    "normalizedClientId": "17524",
+    "clientId": "17524",
+    "clientName": "Calyx"
+  },
+  "17541": {
+    "normalizedClientId": "17541",
+    "clientId": "17541",
+    "clientName": "Haleon"
+  },
+  "17550": {
+    "normalizedClientId": "17550",
+    "clientId": "17550",
+    "clientName": "ASM Global"
+  },
+  "17551": {
+    "normalizedClientId": "17551",
+    "clientId": "17551",
+    "clientName": "IKEA"
+  },
+  "17552": {
+    "normalizedClientId": "17552",
+    "clientId": "17552",
+    "clientName": "Amazon DSP"
+  },
+  "17553": {
+    "normalizedClientId": "17553",
+    "clientId": "17553",
+    "clientName": "American National"
+  },
+  "17560": {
+    "normalizedClientId": "17560",
+    "clientId": "17560",
+    "clientName": "undefined"
+  },
+  "17574": {
+    "normalizedClientId": "17574",
+    "clientId": "17574",
+    "clientName": "Kenvue"
+  },
+  "17575": {
+    "normalizedClientId": "17575",
+    "clientId": "17575",
+    "clientName": "Warner Bros. Discovery"
+  },
+  "17602": {
+    "normalizedClientId": "17602",
+    "clientId": "17602",
+    "clientName": "Kyndryl"
+  },
+  "17626": {
+    "normalizedClientId": "17626",
+    "clientId": "17626",
+    "clientName": "undefined"
+  },
+  "17640": {
+    "normalizedClientId": "17640",
+    "clientId": "17640",
+    "clientName": "Siemens Energy"
+  },
+  "17641": {
+    "normalizedClientId": "17641",
+    "clientId": "17641",
+    "clientName": "Global Atlantic"
+  },
+  "17644": {
+    "normalizedClientId": "17644",
+    "clientId": "17644",
+    "clientName": "IOL/EM companies in Canada"
+  },
+  "17657": {
+    "normalizedClientId": "17657",
+    "clientId": "17657",
+    "clientName": ""
+  },
+  "17678": {
+    "normalizedClientId": "17678",
+    "clientId": "17678",
+    "clientName": "GE Aerospace"
+  },
+  "17682": {
+    "normalizedClientId": "17682",
+    "clientId": "17682",
+    "clientName": "Pantogran"
+  },
+  "17692": {
+    "normalizedClientId": "17692",
+    "clientId": "17692",
+    "clientName": "Barton Malow Company"
+  },
+  "17699": {
+    "normalizedClientId": "17699",
+    "clientId": "17699",
+    "clientName": "City Of Fort Worth"
+  },
+  "17716": {
+    "normalizedClientId": "17716",
+    "clientId": "17716",
+    "clientName": "Nightwing"
+  },
+  "31031": {
+    "normalizedClientId": "31031",
+    "clientId": "31031",
+    "clientName": "Sunrun"
+  },
+  "31795": {
+    "normalizedClientId": "31795",
+    "clientId": "31795",
+    "clientName": "Corebridge Financial"
+  },
+  "32852": {
+    "normalizedClientId": "32852",
+    "clientId": "32852",
+    "clientName": "L3Harris"
+  },
+  "33805": {
+    "normalizedClientId": "33805",
+    "clientId": "33805",
+    "clientName": "undefined"
+  },
+  "33940": {
+    "normalizedClientId": "33940",
+    "clientId": "33940",
+    "clientName": "Alight Solutions"
+  },
+  "33941": {
+    "normalizedClientId": "33941",
+    "clientId": "33941",
+    "clientName": "Viatris"
+  },
+  "34153": {
+    "normalizedClientId": "34153",
+    "clientId": "34153",
+    "clientName": "MVW"
+  }
+}
