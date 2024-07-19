@@ -37,6 +37,7 @@ const readCSV = async (filePath) => {
 
 const clientNameNormalizedIdPath = "./udp_clientName_normalizedClientId.csv";
 const udpClientIdListPath = "./udp_alphanumeric_client_list.csv";
+const udpFilename = "udp";
 
 (async () => {
   try {
@@ -74,14 +75,14 @@ const udpClientIdListPath = "./udp_alphanumeric_client_list.csv";
     console.log("udpClientIdMap size: ", Object.values(udpClientIdMap).length);
 
     // save udp data into json file
-    fs.writeFile("udp.json", JSON.stringify(udpClientIdMap, null, 2), (err) => {
+    fs.writeFile(`${udpFilename}.json`, JSON.stringify(udpClientIdMap, null, 2), (err) => {
       err
         ? console.error("Error writing JSON to file:", err)
         : console.log("JSON file has been saved.");
     });
 
-    writeMapToCSV(udpClientIdMap, "udp.csv");
+    writeMapToCSV(udpClientIdMap, `${udpFilename}.csv`);
   } catch (error) {
-    console.error("Error reading CSV files:", error);
+    console.error("Error using the tool:", error);
   }
 })();
