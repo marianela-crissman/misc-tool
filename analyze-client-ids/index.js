@@ -2,6 +2,15 @@ const fs = require("fs");
 const csv = require("csv-parser");
 const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 
+function saveToFiles(list, filename) {
+  writeMapToCSV(list, `${filename}.csv`);
+  fs.writeFile(`${filename}.json`, JSON.stringify(list, null, 2), (err) => {
+    err
+      ? console.error("Error writing JSON to file:", err)
+      : console.log("JSON file has been saved.");
+  });
+}
+
 async function writeMapToCSV(data, filePath) {
   // Convert Map to Array of Objects for csv-writer
   // const data = Object.values(map);
@@ -201,9 +210,6 @@ const ahxFilter_clientIds = [
 ];
 const ssmd_clientIds = ["5977", "1808", "00245"];
 
-const clientNameNormalizedIdPath = "./clientName_normalizedClientId.csv";
-const udpClientIdListPath = "./alphanumeric_udp_client_list.csv";
-
 const pdClientIdLmListPath = "./pd_client_list_LM.csv";
 const pdClientIdHwe1ListPath = "./pd_client_list_HWE1.csv";
 const pdClientIdHwe2ListPath = "./pd_client_list_HWE2.csv";
@@ -223,22 +229,31 @@ const outputFilename = "output";
     const pdClientIdHwe1List = await readCSV(pdClientIdHwe1ListPath);
     const pdClientIdHwe2List = await readCSV(pdClientIdHwe2ListPath);
 
+    /**
+     * All clients in provider direct (enabled or not, regardless of the clientID)
+     */
     const processedList = processAndGenerateFinalCSV(
       pdClientIdLmList,
       pdClientIdHwe1List,
       pdClientIdHwe2List,
       udpClientIdMap
     );
+    saveToFiles(processedList, outputFilename);
 
-    writeMapToCSV(processedList, `${outputFilename}.csv`);
-    fs.writeFile(
-      `${outputFilename}.json`,
-      JSON.stringify(processedList, null, 2),
-      (err) => {
-        err
-          ? console.error("Error writing JSON to file:", err)
-          : console.log("JSON file has been saved.");
-      }
+    /**
+     * Provider Direct = Y and UDP client id and normalized client id are different
+     */
+    const processedListEnabledClientsForPDAndDiffClientIds = processedList
+      .filter((item) => item?.providerDirect === "Y")
+      .filter(
+        (item) =>
+          item?.udp_clientId !== item?.udp_normalizedClientId ||
+          !item?.udp_clientId ||
+          !item?.udp_normalizedClientId
+      );
+    saveToFiles(
+      processedListEnabledClientsForPDAndDiffClientIds,
+      `${outputFilename}_pd_y_diff_where_normAndNonNormAreDifferent`
     );
   } catch (error) {
     console.error("Error using the tool:", error);

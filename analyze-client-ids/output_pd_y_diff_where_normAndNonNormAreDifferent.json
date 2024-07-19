@@ -1,0 +1,245 @@
+[
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q900245O",
+    "clientId": "245",
+    "clientName": "United Airlines",
+    "udp_normalizedClientId": "00245",
+    "udp_clientName": "United Airlines",
+    "udp_clientId": "C0245"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q601697X",
+    "clientId": "1697",
+    "clientName": "Novartis Corporation (USA)",
+    "udp_normalizedClientId": "01697",
+    "udp_clientName": "MetLife - Novartis",
+    "udp_clientId": "N1697"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q74508TD",
+    "clientId": "4508",
+    "clientName": "Ernst and Young, L.L.P.",
+    "udp_normalizedClientId": "04508",
+    "udp_clientName": "EY",
+    "udp_clientId": "E4508"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q41526TX",
+    "clientId": "1526",
+    "clientName": "Federal Reserve Employee Benefits System",
+    "udp_normalizedClientId": "01526",
+    "udp_clientName": "Federal Reserve Employee Benefits System",
+    "udp_clientId": "F1526"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q71442TW",
+    "clientId": "1442",
+    "clientName": "CNA Financial Corporation",
+    "udp_normalizedClientId": "01442",
+    "udp_clientName": "CNA",
+    "udp_clientId": "C1442"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q316757X",
+    "clientId": "1955",
+    "clientName": "Campbell Soup Company",
+    "udp_normalizedClientId": "01955",
+    "udp_clientName": "Campbell",
+    "udp_clientId": "16757"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q25094TD",
+    "clientId": "5094",
+    "clientName": "Cardinal Health, Inc.",
+    "udp_normalizedClientId": "05094",
+    "udp_clientName": "Cardinal Health, Inc.",
+    "udp_clientId": "C5094"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q82491TF",
+    "clientId": "2491",
+    "clientName": "The Goldman Sachs Group, Inc.",
+    "udp_normalizedClientId": "02491",
+    "udp_clientName": "",
+    "udp_clientId": "G2491"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q901909D",
+    "clientId": "1909",
+    "clientName": "Southern Company",
+    "udp_normalizedClientId": "01909",
+    "udp_clientName": "",
+    "udp_clientId": "S1909"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q40695TX",
+    "clientId": "695",
+    "clientName": "Johnson and Johnson",
+    "udp_normalizedClientId": "00695",
+    "udp_clientName": "",
+    "udp_clientId": "J0695"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q902346F",
+    "clientId": "2346",
+    "clientName": "The Boeing Company",
+    "udp_normalizedClientId": "02346",
+    "udp_clientName": "BOEING",
+    "udp_clientId": "B2346"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q71377TD",
+    "clientId": "1377",
+    "clientName": "Dominion Energy",
+    "udp_normalizedClientId": "01377",
+    "udp_clientName": "Dominion Energy",
+    "udp_clientId": "C1377"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q76597TX",
+    "clientId": "6597",
+    "clientName": "Deutsche Bank AG",
+    "udp_normalizedClientId": "06597",
+    "udp_clientName": "Deutsche Bank",
+    "udp_clientId": "D6597"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q801808M",
+    "clientId": "1808",
+    "clientName": "The Allstate Corporation",
+    "udp_normalizedClientId": "01808",
+    "udp_clientName": "Allstate Corporation",
+    "udp_clientId": "A1808"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q203349V",
+    "clientId": "3349",
+    "clientName": "ATnT Inc.",
+    "udp_normalizedClientId": "03349",
+    "udp_clientName": "AT&T",
+    "udp_clientId": "S3349"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q10726TE",
+    "clientId": "726",
+    "clientName": "BP p.l.c.",
+    "udp_normalizedClientId": "00726",
+    "udp_clientName": "BP America",
+    "udp_clientId": "A0726"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q903537B",
+    "clientId": "3537",
+    "clientName": "Siemens Corporation",
+    "udp_normalizedClientId": "03537",
+    "udp_clientName": "Siemens Corporation",
+    "udp_clientId": "S3537"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q11215TE",
+    "clientId": "1215",
+    "clientName": "United Parcel Service, Inc.",
+    "udp_normalizedClientId": "01215",
+    "udp_clientName": "United Parcel Service",
+    "udp_clientId": "U1215"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q32524TW",
+    "clientId": "2524",
+    "clientName": "J. C. Penney Company, Inc.",
+    "udp_normalizedClientId": "02524",
+    "udp_clientName": "",
+    "udp_clientId": "J2524"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q46957TX",
+    "clientId": "6957",
+    "clientName": "Thomson Reuters",
+    "udp_normalizedClientId": "06957",
+    "udp_clientName": "Thomson Reuters",
+    "udp_clientId": "T6957"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB023788H",
+    "clientId": "2378",
+    "clientName": "Arconic",
+    "udp_normalizedClientId": "02378",
+    "udp_clientName": "Arconic",
+    "udp_clientId": "A2378"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q201487P",
+    "clientId": "1487",
+    "clientName": "Bank of America",
+    "udp_normalizedClientId": "01487",
+    "udp_clientName": "",
+    "udp_clientId": "N1487"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q15911TG",
+    "clientId": "5911",
+    "clientName": "Duke Energy Corporation",
+    "udp_normalizedClientId": "05911",
+    "udp_clientName": "undefined",
+    "udp_clientId": "D5911"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q78101TW",
+    "clientId": "8101",
+    "clientName": "Westinghouse Electric Company LLC",
+    "udp_normalizedClientId": "08101",
+    "udp_clientName": "",
+    "udp_clientId": "W8101"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q35923TE",
+    "clientId": "5923",
+    "clientName": "NiSource",
+    "udp_normalizedClientId": "05923",
+    "udp_clientName": "",
+    "udp_clientId": "C5923"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q417613F",
+    "clientId": "17613",
+    "clientName": "GE Vernova"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q317728C",
+    "clientId": "17728",
+    "clientName": "NewCo"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "4818",
+    "clientName": "Boehringer Ingelheim"
+  }
+]
