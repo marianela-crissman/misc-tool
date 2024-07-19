@@ -1,0 +1,1943 @@
+[
+  {
+    "providerDirect": "N",
+    "testCfg": "Q101881P",
+    "clientId": "1881",
+    "clientName": "BMO Financial Group",
+    "udp_normalizedClientId": "01881",
+    "udp_clientName": "BMO",
+    "udp_clientId": "B1881"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q305987D",
+    "clientId": "5987",
+    "clientName": "Canadian Imperial Bank of Commerce",
+    "udp_normalizedClientId": "05987",
+    "udp_clientName": "CIBC",
+    "udp_clientId": "05987"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q403955E",
+    "clientId": "3955",
+    "clientName": "Exelon Corporation",
+    "udp_normalizedClientId": "03955",
+    "udp_clientName": "Exelon Corporation",
+    "udp_clientId": "03955"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "749",
+    "clientName": "American Airlines",
+    "udp_normalizedClientId": "00749",
+    "udp_clientName": "American Airlines",
+    "udp_clientId": "00749"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q601711E",
+    "clientId": "1711",
+    "clientName": "Corteva Agriscience",
+    "udp_normalizedClientId": "01711",
+    "udp_clientName": "Corteva Agriscience",
+    "udp_clientId": "01711"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q900245O",
+    "clientId": "245",
+    "clientName": "United Airlines",
+    "udp_normalizedClientId": "00245",
+    "udp_clientName": "United Airlines",
+    "udp_clientId": "C0245"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q401362W ",
+    "clientId": "1362",
+    "clientName": "McKesson Corporation",
+    "udp_normalizedClientId": "01362",
+    "udp_clientName": "McKesson",
+    "udp_clientId": "01362"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q200470E",
+    "clientId": "470",
+    "clientName": "Baxter International Inc.",
+    "udp_normalizedClientId": "00470",
+    "udp_clientName": "Baxter",
+    "udp_clientId": "00470"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q601697X",
+    "clientId": "1697",
+    "clientName": "Novartis Corporation (USA)",
+    "udp_normalizedClientId": "01697",
+    "udp_clientName": "MetLife - Novartis",
+    "udp_clientId": "N1697"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q74508TD",
+    "clientId": "4508",
+    "clientName": "Ernst and Young, L.L.P.",
+    "udp_normalizedClientId": "04508",
+    "udp_clientName": "EY",
+    "udp_clientId": "E4508"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q400990X",
+    "clientId": "990",
+    "clientName": "Securitas Security Services",
+    "udp_normalizedClientId": "00990",
+    "udp_clientName": "Securitas",
+    "udp_clientId": "00990"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q41526TX",
+    "clientId": "1526",
+    "clientName": "Federal Reserve Employee Benefits System",
+    "udp_normalizedClientId": "01526",
+    "udp_clientName": "Federal Reserve Employee Benefits System",
+    "udp_clientId": "F1526"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q201166X",
+    "clientId": "1165",
+    "clientName": "Luxottica Retail",
+    "udp_normalizedClientId": "01165",
+    "udp_clientName": "EssilorLuxottica",
+    "udp_clientId": "01165"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q301283E",
+    "clientId": "1283",
+    "clientName": "State Farm Insurance Companies",
+    "udp_normalizedClientId": "01283",
+    "udp_clientName": "State Farm Insurance",
+    "udp_clientId": "01283"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "3377",
+    "clientName": "HSBC North America Holdings Inc.",
+    "udp_normalizedClientId": "03377",
+    "udp_clientName": "HSBC",
+    "udp_clientId": "03377"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q401488F",
+    "clientId": "1488",
+    "clientName": "Citigroup Inc.",
+    "udp_normalizedClientId": "01488",
+    "udp_clientName": "Citi",
+    "udp_clientId": "C1488"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q102865X",
+    "clientId": "2865",
+    "clientName": "DTE Energy Company",
+    "udp_normalizedClientId": "02865",
+    "udp_clientName": "DTE Energy",
+    "udp_clientId": "02865"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB01141V",
+    "clientId": "1141",
+    "clientName": "Johnson Controls, Inc.",
+    "udp_normalizedClientId": "01141",
+    "udp_clientName": "Johnson Controls, Inc.",
+    "udp_clientId": "J1141"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q601366P",
+    "clientId": "1366",
+    "clientName": "International Paper Company",
+    "udp_normalizedClientId": "01366",
+    "udp_clientName": "International Paper",
+    "udp_clientId": "01366"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q201426X",
+    "clientId": "1426",
+    "clientName": "The First American Corporation",
+    "udp_normalizedClientId": "01426",
+    "udp_clientName": "First American",
+    "udp_clientId": "01426"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB02525E",
+    "clientId": "2525",
+    "clientName": "Rockwell Automation, Inc.",
+    "udp_normalizedClientId": "02525",
+    "udp_clientName": "Rockwell Automation",
+    "udp_clientId": "02525"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q71442TW",
+    "clientId": "1442",
+    "clientName": "CNA Financial Corporation",
+    "udp_normalizedClientId": "01442",
+    "udp_clientName": "CNA",
+    "udp_clientId": "C1442"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q75866TW",
+    "clientId": "5866",
+    "clientName": "FCA Canada Inc.",
+    "udp_normalizedClientId": "05866",
+    "udp_clientName": "",
+    "udp_clientId": "C5866"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q43223TE",
+    "clientId": "3223",
+    "clientName": "General Motors of Canada Limited",
+    "udp_normalizedClientId": "03223",
+    "udp_clientName": "",
+    "udp_clientId": "G3223"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q03099TW",
+    "clientId": "3099",
+    "clientName": "IBM Canada Ltd.",
+    "udp_normalizedClientId": "03099",
+    "udp_clientName": "",
+    "udp_clientId": "03099"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q616896E",
+    "clientId": "16896",
+    "clientName": "TIAA",
+    "udp_normalizedClientId": "16896",
+    "udp_clientName": "",
+    "udp_clientId": "16896"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q801645E",
+    "clientId": "1645",
+    "clientName": "American Express",
+    "udp_normalizedClientId": "01645",
+    "udp_clientName": "AMEX",
+    "udp_clientId": "01645"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q702009W",
+    "clientId": "2009",
+    "clientName": "Parker-Hannifin Corporation",
+    "udp_normalizedClientId": "02009",
+    "udp_clientName": "Parker-Hannifin",
+    "udp_clientId": "02009"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q316757X",
+    "clientId": "16757",
+    "clientName": "Campbell Soup Company"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q301040X",
+    "clientId": "1040",
+    "clientName": "Walgreen Co.",
+    "udp_normalizedClientId": "01040",
+    "udp_clientName": "Walgreens Family of Companies",
+    "udp_clientId": "01040"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q03742E",
+    "clientId": "3742",
+    "clientName": "United Health Group",
+    "udp_normalizedClientId": "03742",
+    "udp_clientName": "UnitedHealth Group",
+    "udp_clientId": "03742"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q003902E",
+    "clientId": "3902",
+    "clientName": "GlaxoSmithKline",
+    "udp_normalizedClientId": "03902",
+    "udp_clientName": "GlaxoSmithKline",
+    "udp_clientId": "03902"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q600472M",
+    "clientId": "472",
+    "clientName": "Abbott Laboratories",
+    "udp_normalizedClientId": "00472",
+    "udp_clientName": "Abbott",
+    "udp_clientId": "00472"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q801656C",
+    "clientId": "1656",
+    "clientName": "The American Red Cross",
+    "udp_normalizedClientId": "01656",
+    "udp_clientName": "undefined",
+    "udp_clientId": "01656"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q29950TE",
+    "clientId": "9950",
+    "clientName": "TransCanada Corporation",
+    "udp_normalizedClientId": "09950",
+    "udp_clientName": "TC Energy",
+    "udp_clientId": "09950"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q209429E",
+    "clientId": "9429",
+    "clientName": "HP Inc.",
+    "udp_normalizedClientId": "09429",
+    "udp_clientName": "",
+    "udp_clientId": "09429"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q25094TD",
+    "clientId": "5094",
+    "clientName": "Cardinal Health, Inc.",
+    "udp_normalizedClientId": "05094",
+    "udp_clientName": "Cardinal Health, Inc.",
+    "udp_clientId": "C5094"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q008478X",
+    "clientId": "8478",
+    "clientName": "AutoNation Inc.",
+    "udp_normalizedClientId": "08478",
+    "udp_clientName": "AutoNation",
+    "udp_clientId": "08478"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q108053E",
+    "clientId": "8053",
+    "clientName": "Sodexo",
+    "udp_normalizedClientId": "08053",
+    "udp_clientName": "Sodexo",
+    "udp_clientId": "08053"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q201725D",
+    "clientId": "1725",
+    "clientName": "Becton, Dickinson and Company",
+    "udp_normalizedClientId": "01725",
+    "udp_clientName": "",
+    "udp_clientId": "01725"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB01995X",
+    "clientId": "1995",
+    "clientName": "Marriott International, Inc.",
+    "udp_normalizedClientId": "01995",
+    "udp_clientName": "",
+    "udp_clientId": "01995"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q301971F",
+    "clientId": "1971",
+    "clientName": "Morgan Stanley",
+    "udp_normalizedClientId": "01971",
+    "udp_clientName": "Morgan Stanley",
+    "udp_clientId": "01971"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q82491TF",
+    "clientId": "2491",
+    "clientName": "The Goldman Sachs Group, Inc.",
+    "udp_normalizedClientId": "02491",
+    "udp_clientName": "",
+    "udp_clientId": "G2491"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q901909D",
+    "clientId": "1909",
+    "clientName": "Southern Company",
+    "udp_normalizedClientId": "01909",
+    "udp_clientName": "",
+    "udp_clientId": "S1909"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q102292X",
+    "clientId": "2292",
+    "clientName": "New York Life Insurance Company",
+    "udp_normalizedClientId": "02292",
+    "udp_clientName": "New York Life",
+    "udp_clientId": "N2292"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q901638N",
+    "clientId": "1638",
+    "clientName": "Raytheon Technologies",
+    "udp_normalizedClientId": "01638",
+    "udp_clientName": "",
+    "udp_clientId": "01638"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q801694W",
+    "clientId": "1694",
+    "clientName": "Caesars Entertainment",
+    "udp_normalizedClientId": "01694",
+    "udp_clientName": "Caesars Entertainment",
+    "udp_clientId": "01694"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB07263X",
+    "clientId": "7263",
+    "clientName": "U.S. Foodservice, Inc.",
+    "udp_normalizedClientId": "07263",
+    "udp_clientName": "MetLife - US Foods",
+    "udp_clientId": "07263"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q801924X",
+    "clientId": "1924",
+    "clientName": "Equitable Holdings, Inc",
+    "udp_normalizedClientId": "01924",
+    "udp_clientName": "Equitable Holdings, Inc",
+    "udp_clientId": "01924"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q902017N",
+    "clientId": "2017",
+    "clientName": "CenterPoint Energy Inc.",
+    "udp_normalizedClientId": "02017",
+    "udp_clientName": "CenterPoint Energy",
+    "udp_clientId": "02017"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q902461X",
+    "clientId": "2461",
+    "clientName": "Unisys Corporation",
+    "udp_normalizedClientId": "02461",
+    "udp_clientName": "Unisys",
+    "udp_clientId": "02461"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q910162F",
+    "clientId": "10162",
+    "clientName": "Cintas Corporation",
+    "udp_normalizedClientId": "10162",
+    "udp_clientName": "Cintas Corporation",
+    "udp_clientId": "10162"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q108666X",
+    "clientId": "8666",
+    "clientName": "Best Buy Co., Inc.",
+    "udp_normalizedClientId": "08666",
+    "udp_clientName": "Best Buy Co., Inc.",
+    "udp_clientId": "08666"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q900398F",
+    "clientId": "398",
+    "clientName": "Eli Lilly and Company",
+    "udp_normalizedClientId": "00398",
+    "udp_clientName": "Lilly Del Caribe",
+    "udp_clientId": "L0398"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q616418X",
+    "clientId": "16418",
+    "clientName": "Phillips 66",
+    "udp_normalizedClientId": "16418",
+    "udp_clientName": "Phillips 66",
+    "udp_clientId": "16418"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB01698O",
+    "clientId": "1698",
+    "clientName": "PepsiCo, Inc.",
+    "udp_normalizedClientId": "01698",
+    "udp_clientName": "",
+    "udp_clientId": "01698"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q401012O",
+    "clientId": "1012",
+    "clientName": "Cigna",
+    "udp_normalizedClientId": "01012",
+    "udp_clientName": "The Cigna Group",
+    "udp_clientId": "01012"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q903860D",
+    "clientId": "3860",
+    "clientName": "Waste Management, Inc.",
+    "udp_normalizedClientId": "03860",
+    "udp_clientName": "Waste Management",
+    "udp_clientId": "03860"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q202154P",
+    "clientId": "2154",
+    "clientName": "Navistar International Corporation",
+    "udp_normalizedClientId": "02154",
+    "udp_clientName": "Navistar, Inc.",
+    "udp_clientId": "02154"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q71377TD",
+    "clientId": "1377",
+    "clientName": "Dominion Energy",
+    "udp_normalizedClientId": "01377",
+    "udp_clientName": "Dominion Energy",
+    "udp_clientId": "C1377"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q76597TX",
+    "clientId": "6597",
+    "clientName": "Deutsche Bank AG",
+    "udp_normalizedClientId": "06597",
+    "udp_clientName": "Deutsche Bank",
+    "udp_clientId": "D6597"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB02490X",
+    "clientId": "2490",
+    "clientName": "Credit Suisse",
+    "udp_normalizedClientId": "02490",
+    "udp_clientName": "",
+    "udp_clientId": "02490"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q316716W",
+    "clientId": "16716",
+    "clientName": "Otis Elevator Company",
+    "udp_normalizedClientId": "16716",
+    "udp_clientName": "",
+    "udp_clientId": "16716"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q702694X",
+    "clientId": "2694",
+    "clientName": "Exxon Mobil Corporation",
+    "udp_normalizedClientId": "02694",
+    "udp_clientName": "ExxonMobil",
+    "udp_clientId": "02694"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q816815V",
+    "clientId": "16815",
+    "clientName": "Clarios",
+    "udp_normalizedClientId": "16815",
+    "udp_clientName": "HCSC - Clarios",
+    "udp_clientId": "16815"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q804693E",
+    "clientId": "4693",
+    "clientName": "The Goodyear Tire and Rubber Company",
+    "udp_normalizedClientId": "04693",
+    "udp_clientName": "Goodyear Tire & Rubber Company",
+    "udp_clientId": "04693"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q810050O",
+    "clientId": "10050",
+    "clientName": "Danaher Corporation",
+    "udp_normalizedClientId": "10050",
+    "udp_clientName": "Danaher",
+    "udp_clientId": "10050"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q403979W",
+    "clientId": "3979",
+    "clientName": "Lowes Companies, Inc.",
+    "udp_normalizedClientId": "03979",
+    "udp_clientName": "Lowe's",
+    "udp_clientId": "03979"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q116528B",
+    "clientId": "16528",
+    "clientName": "University System of Georgia Board of Regents",
+    "udp_normalizedClientId": "16528",
+    "udp_clientName": "Board of Regents, University System of Georgia",
+    "udp_clientId": "16528"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q202789X",
+    "clientId": "2789",
+    "clientName": "The Bank of New York Mellon",
+    "udp_normalizedClientId": "02789",
+    "udp_clientName": "BNY MELLON",
+    "udp_clientId": "02789"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q801808M",
+    "clientId": "1808",
+    "clientName": "The Allstate Corporation",
+    "udp_normalizedClientId": "01808",
+    "udp_clientName": "Allstate Corporation",
+    "udp_clientId": "A1808"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q203349V",
+    "clientId": "3349",
+    "clientName": "ATnT Inc.",
+    "udp_normalizedClientId": "03349",
+    "udp_clientName": "AT&T",
+    "udp_clientId": "S3349"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB00982E",
+    "clientId": "982",
+    "clientName": "McDonalds Corporation",
+    "udp_normalizedClientId": "00982",
+    "udp_clientName": "",
+    "udp_clientId": "00982"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q800892D",
+    "clientId": "892",
+    "clientName": "The Sherwin-Williams Company",
+    "udp_normalizedClientId": "00892",
+    "udp_clientName": "Sherwin-Williams",
+    "udp_clientId": "00892"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "7796",
+    "clientName": "Koch Industries, Inc.",
+    "udp_normalizedClientId": "07796",
+    "udp_clientName": "Koch Industries",
+    "udp_clientId": "07796"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q001700M",
+    "clientId": "1700",
+    "clientName": "Ford Motor Company",
+    "udp_normalizedClientId": "01700",
+    "udp_clientName": "Ford Motor Company",
+    "udp_clientId": "01700"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q001576P, Q001576P",
+    "clientId": "1576",
+    "clientName": "Deere and Company",
+    "udp_normalizedClientId": "01576",
+    "udp_clientName": "Deere & Company",
+    "udp_clientId": "01576"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q600175X",
+    "clientId": "175",
+    "clientName": "Archer Daniels Midland Company",
+    "udp_normalizedClientId": "00175",
+    "udp_clientName": "ADM",
+    "udp_clientId": "00175"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q303356F",
+    "clientId": "3356",
+    "clientName": "Meijer, Inc.",
+    "udp_normalizedClientId": "03356",
+    "udp_clientName": "",
+    "udp_clientId": "03356"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q10726TE",
+    "clientId": "726",
+    "clientName": "BP p.l.c.",
+    "udp_normalizedClientId": "00726",
+    "udp_clientName": "BP America",
+    "udp_clientId": "A0726"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q814552E",
+    "clientId": "14552",
+    "clientName": "FirstGroup America",
+    "udp_normalizedClientId": "14552",
+    "udp_clientName": "FirstGroup America",
+    "udp_clientId": "14552"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q903537B",
+    "clientId": "3537",
+    "clientName": "Siemens Corporation",
+    "udp_normalizedClientId": "03537",
+    "udp_clientName": "Siemens Corporation",
+    "udp_clientId": "S3537"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q11215TE",
+    "clientId": "1215",
+    "clientName": "United Parcel Service, Inc.",
+    "udp_normalizedClientId": "01215",
+    "udp_clientName": "United Parcel Service",
+    "udp_clientId": "U1215"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q305434F",
+    "clientId": "5434",
+    "clientName": "Prudential Financial",
+    "udp_normalizedClientId": "05434",
+    "udp_clientName": "Prudential Financial",
+    "udp_clientId": "05434"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q600632W",
+    "clientId": "632",
+    "clientName": "KeyCorp",
+    "udp_normalizedClientId": "00632",
+    "udp_clientName": "MetLife - KeyCorp",
+    "udp_clientId": "00632"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q32524TW",
+    "clientId": "2524",
+    "clientName": "J. C. Penney Company, Inc.",
+    "udp_normalizedClientId": "02524",
+    "udp_clientName": "",
+    "udp_clientId": "J2524"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q46957TX",
+    "clientId": "6957",
+    "clientName": "Thomson Reuters",
+    "udp_normalizedClientId": "06957",
+    "udp_clientName": "Thomson Reuters",
+    "udp_clientId": "T6957"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q8597TX",
+    "clientId": "5977",
+    "clientName": "Dell Inc.",
+    "udp_normalizedClientId": "05977",
+    "udp_clientName": "",
+    "udp_clientId": "D5977"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB023788H",
+    "clientId": "2378",
+    "clientName": "Arconic",
+    "udp_normalizedClientId": "02378",
+    "udp_clientName": "Arconic",
+    "udp_clientId": "A2378"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q205790E",
+    "clientId": "5790",
+    "clientName": "American Honda Motor Co",
+    "udp_normalizedClientId": "05790",
+    "udp_clientName": "Honda",
+    "udp_clientId": "05790"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q201487P",
+    "clientId": "1487",
+    "clientName": "Bank of America",
+    "udp_normalizedClientId": "01487",
+    "udp_clientName": "",
+    "udp_clientId": "N1487"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q27544TD",
+    "clientId": "7544",
+    "clientName": "Nokia Inc. (Legacy Alcatel-Lucent)",
+    "udp_normalizedClientId": "07544",
+    "udp_clientName": "",
+    "udp_clientId": "07544"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q15911TG",
+    "clientId": "5911",
+    "clientName": "Duke Energy Corporation",
+    "udp_normalizedClientId": "05911",
+    "udp_clientName": "undefined",
+    "udp_clientId": "D5911"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Z003889Z",
+    "clientId": "3889",
+    "clientName": "State of Georgia",
+    "udp_normalizedClientId": "03889",
+    "udp_clientName": "State of Georgia",
+    "udp_clientId": "03889"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q900567P",
+    "clientId": "567",
+    "clientName": "U.S. Bancorp",
+    "udp_normalizedClientId": "00567",
+    "udp_clientName": "U.S. Bank",
+    "udp_clientId": "00567"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB03177C",
+    "clientId": "3177",
+    "clientName": "Hyatt Corporation",
+    "udp_normalizedClientId": "03177",
+    "udp_clientName": "Hyatt",
+    "udp_clientId": "03177"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q108853X",
+    "clientId": "8853",
+    "clientName": "BAE Systems",
+    "udp_normalizedClientId": "08853",
+    "udp_clientName": "BAE Systems",
+    "udp_clientId": "08853"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB02233X",
+    "clientId": "2233",
+    "clientName": "Aon Corporation",
+    "udp_normalizedClientId": "02233",
+    "udp_clientName": "",
+    "udp_clientId": "02233"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q809086X",
+    "clientId": "9086",
+    "clientName": "T-Mobile",
+    "udp_normalizedClientId": "09086",
+    "udp_clientName": "T-Mobile USA",
+    "udp_clientId": "09086"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q78101TW",
+    "clientId": "8101",
+    "clientName": "Westinghouse Electric Company LLC",
+    "udp_normalizedClientId": "08101",
+    "udp_clientName": "",
+    "udp_clientId": "W8101"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q210197V",
+    "clientId": "10197",
+    "clientName": "DaVita Inc.",
+    "udp_normalizedClientId": "10197",
+    "udp_clientName": "",
+    "udp_clientId": "10197"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q216662E",
+    "clientId": "16662",
+    "clientName": "DuPont SpecCo",
+    "udp_normalizedClientId": "16662",
+    "udp_clientName": "",
+    "udp_clientId": "16662"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q35923TE",
+    "clientId": "5923",
+    "clientName": "NiSource",
+    "udp_normalizedClientId": "05923",
+    "udp_clientName": "",
+    "udp_clientId": "C5923"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q210820W",
+    "clientId": "10820",
+    "clientName": "Discover Financial Services",
+    "udp_normalizedClientId": "10820",
+    "udp_clientName": "Discover Financial Services",
+    "udp_clientId": "10820"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q609813D",
+    "clientId": "9813",
+    "clientName": "JP Morgan Chase and Co. - For TBA use only",
+    "udp_normalizedClientId": "09813",
+    "udp_clientName": "JPMorgan Chase",
+    "udp_clientId": "09813"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q601250V",
+    "clientId": "1250",
+    "clientName": "Hilton Hotels Corporation",
+    "udp_normalizedClientId": "01250",
+    "udp_clientName": "Employer",
+    "udp_clientId": "01250"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB09852X",
+    "clientId": "9852",
+    "clientName": "AECOM Technology Corporation",
+    "udp_normalizedClientId": "09852",
+    "udp_clientName": "AECOM",
+    "udp_clientId": "09852"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q401479X",
+    "clientId": "1479",
+    "clientName": "WestRock Co.",
+    "udp_normalizedClientId": "01479",
+    "udp_clientName": "WestRock",
+    "udp_clientId": "01479"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "186",
+    "clientName": "General Mills, Inc.",
+    "udp_normalizedClientId": "00186",
+    "udp_clientName": "General Mills",
+    "udp_clientId": "00186"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "14671",
+    "clientName": "The UAW Retiree Medical Benefits Trust (VEBA)",
+    "udp_normalizedClientId": "14671",
+    "udp_clientName": "",
+    "udp_clientId": "14671"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q601762X",
+    "clientId": "1762",
+    "clientName": "L3Harris Technologies",
+    "udp_normalizedClientId": "01762",
+    "udp_clientName": "L3Harris Technologies",
+    "udp_clientId": "01762"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q710611W",
+    "clientId": "10611",
+    "clientName": "Jones Lang LaSalle Incorporated",
+    "udp_normalizedClientId": "10611",
+    "udp_clientName": "Jones Lang LaSalle",
+    "udp_clientId": "10611"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q016557G",
+    "clientId": "16557",
+    "clientName": "Alcoa USA",
+    "udp_normalizedClientId": "16557",
+    "udp_clientName": "Alcoa",
+    "udp_clientId": "16557"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q316611E",
+    "clientId": "16611",
+    "clientName": "Mass General Brigham",
+    "udp_normalizedClientId": "16611",
+    "udp_clientName": "Mass General Brigham",
+    "udp_clientId": "16611"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q601697X",
+    "clientId": "6399",
+    "clientName": "Alcon Laboratories"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q816628E",
+    "clientId": "33940",
+    "clientName": "Alight Canada N.S. ULC",
+    "udp_normalizedClientId": "33940",
+    "udp_clientName": "Alight Solutions",
+    "udp_clientId": "33940"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q816628E",
+    "clientId": "10688",
+    "clientName": "Cisco Canada",
+    "udp_normalizedClientId": "10688",
+    "udp_clientName": "Cisco",
+    "udp_clientId": "10688"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q007641C",
+    "clientId": "7641",
+    "clientName": "Cisco Systems, Inc.",
+    "udp_normalizedClientId": "07641",
+    "udp_clientName": "Cisco",
+    "udp_clientId": "07641"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q217521F",
+    "clientId": "17521",
+    "clientName": "Constellation Energy Group, Inc.",
+    "udp_normalizedClientId": "17521",
+    "udp_clientName": "HCSC - Constellation Energy Corporation",
+    "udp_clientId": "17521"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "32852",
+    "clientName": "L3Harris Canada",
+    "udp_normalizedClientId": "32852",
+    "udp_clientName": "L3Harris",
+    "udp_clientId": "32852"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "2265",
+    "clientName": "Lincoln National Corporation",
+    "udp_normalizedClientId": "02265",
+    "udp_clientName": "Lincoln National",
+    "udp_clientId": "02265"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q916717N",
+    "clientId": "16717",
+    "clientName": "Carrier Corporation",
+    "udp_normalizedClientId": "16717",
+    "udp_clientName": "",
+    "udp_clientId": "16717"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "10020",
+    "clientName": "Novartis Pharma Canada Inc.",
+    "udp_normalizedClientId": "10020",
+    "udp_clientName": "Novartis",
+    "udp_clientId": "10020"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB00620X",
+    "clientId": "620",
+    "clientName": "Schlumberger Limited",
+    "udp_normalizedClientId": "00620",
+    "udp_clientName": "SLB",
+    "udp_clientId": "00620"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q709408C",
+    "clientId": "9408",
+    "clientName": "Siemens Healthineers",
+    "udp_normalizedClientId": "09408",
+    "udp_clientName": "Siemens Healthineers",
+    "udp_clientId": "09408"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q117541D",
+    "clientId": "17541",
+    "clientName": "Haleon",
+    "udp_normalizedClientId": "17541",
+    "udp_clientName": "Haleon",
+    "udp_clientId": "17541"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "17602",
+    "clientName": "Kyndryl Canada",
+    "udp_normalizedClientId": "17602",
+    "udp_clientName": "Kyndryl",
+    "udp_clientId": "17602"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q417575W",
+    "clientId": "17575",
+    "clientName": "Warner Bros. Discovery",
+    "udp_normalizedClientId": "17575",
+    "udp_clientName": "Warner Bros. Discovery",
+    "udp_clientId": "17575"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q816725X",
+    "clientId": "16725",
+    "clientName": "County of Orange",
+    "udp_normalizedClientId": "16725",
+    "udp_clientName": "County of Orange",
+    "udp_clientId": "16725"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q616754E",
+    "clientId": "16754",
+    "clientName": "Siemens Energy",
+    "udp_normalizedClientId": "16754",
+    "udp_clientName": "Siemens Energy",
+    "udp_clientId": "16754"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "17644",
+    "clientName": "Exxon Mobil Corporation - Canada",
+    "udp_normalizedClientId": "17644",
+    "udp_clientName": "IOL/EM companies in Canada",
+    "udp_clientId": "17644"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q704777F",
+    "clientId": "4777",
+    "clientName": "GE Healthcare",
+    "udp_normalizedClientId": "04777",
+    "udp_clientName": "GE HealthCare",
+    "udp_clientId": "04777"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q316878M",
+    "clientId": "16878",
+    "clientName": "Thermo Fisher Scientific Inc.",
+    "udp_normalizedClientId": "16878",
+    "udp_clientName": "Thermo Fisher Scientific",
+    "udp_clientId": "16878"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q717657X",
+    "clientId": "17657",
+    "clientName": "Paragon System, Inc.",
+    "udp_normalizedClientId": "17657",
+    "udp_clientName": "",
+    "udp_clientId": "17657"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "17640",
+    "clientName": "Siemens Energy Canada Limited",
+    "udp_normalizedClientId": "17640",
+    "udp_clientName": "Siemens Energy",
+    "udp_clientId": "17640"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q402878M",
+    "clientId": "2878",
+    "clientName": "The Procter and Gamble Company",
+    "udp_normalizedClientId": "02878",
+    "udp_clientName": "Procter & Gamble",
+    "udp_clientId": "02878"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q217678F",
+    "clientId": "17678",
+    "clientName": "GE Aerospace",
+    "udp_normalizedClientId": "17678",
+    "udp_clientName": "GE Aerospace",
+    "udp_clientId": "17678"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q417613F",
+    "clientId": "17613",
+    "clientName": "GE Vernova"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q317728C",
+    "clientId": "17728",
+    "clientName": "NewCo"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q002360E",
+    "clientId": "2360",
+    "clientName": "Macy's",
+    "udp_normalizedClientId": "02360",
+    "udp_clientName": "Macy's Inc.",
+    "udp_clientId": "02360"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q803974E",
+    "clientId": "3974",
+    "clientName": "Nordstrom",
+    "udp_normalizedClientId": "03974",
+    "udp_clientName": "Nordstrom",
+    "udp_clientId": "03974"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q907812E",
+    "clientId": "7812",
+    "clientName": "PwC",
+    "udp_normalizedClientId": "07812",
+    "udp_clientName": "PricewaterhouseCoopers LLP",
+    "udp_clientId": "07812"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q906607E",
+    "clientId": "6607",
+    "clientName": "Starbucks",
+    "udp_normalizedClientId": "06607",
+    "udp_clientName": "Starbucks",
+    "udp_clientId": "06607"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q300936N",
+    "clientId": "936",
+    "clientName": "Target",
+    "udp_normalizedClientId": "00936",
+    "udp_clientName": "Target",
+    "udp_clientId": "D0936"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q815757M",
+    "clientId": "15757",
+    "clientName": "Huntington Ingalls",
+    "udp_normalizedClientId": "15757",
+    "udp_clientName": "",
+    "udp_clientId": "15757"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q007641C",
+    "clientId": "7641",
+    "clientName": "Cisco Systems, Inc.",
+    "udp_normalizedClientId": "07641",
+    "udp_clientName": "Cisco",
+    "udp_clientId": "07641"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q217521F",
+    "clientId": "17521",
+    "clientName": "Constellation Energy Group, Inc.",
+    "udp_normalizedClientId": "17521",
+    "udp_clientName": "HCSC - Constellation Energy Corporation",
+    "udp_clientId": "17521"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "32852",
+    "clientName": "L3Harris Canada",
+    "udp_normalizedClientId": "32852",
+    "udp_clientName": "L3Harris",
+    "udp_clientId": "32852"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "2265",
+    "clientName": "Lincoln National Corporation",
+    "udp_normalizedClientId": "02265",
+    "udp_clientName": "Lincoln National",
+    "udp_clientId": "02265"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q916717N",
+    "clientId": "16717",
+    "clientName": "Carrier Corporation",
+    "udp_normalizedClientId": "16717",
+    "udp_clientName": "",
+    "udp_clientId": "16717"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "10020",
+    "clientName": "Novartis Pharma Canada Inc.",
+    "udp_normalizedClientId": "10020",
+    "udp_clientName": "Novartis",
+    "udp_clientId": "10020"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB00620X",
+    "clientId": "620",
+    "clientName": "Schlumberger Limited",
+    "udp_normalizedClientId": "00620",
+    "udp_clientName": "SLB",
+    "udp_clientId": "00620"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q709408C",
+    "clientId": "9408",
+    "clientName": "Siemens Healthineers",
+    "udp_normalizedClientId": "09408",
+    "udp_clientName": "Siemens Healthineers",
+    "udp_clientId": "09408"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q117541D",
+    "clientId": "17541",
+    "clientName": "Haleon",
+    "udp_normalizedClientId": "17541",
+    "udp_clientName": "Haleon",
+    "udp_clientId": "17541"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "17602",
+    "clientName": "Kyndryl Canada",
+    "udp_normalizedClientId": "17602",
+    "udp_clientName": "Kyndryl",
+    "udp_clientId": "17602"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q417575W",
+    "clientId": "17575",
+    "clientName": "Warner Bros. Discovery",
+    "udp_normalizedClientId": "17575",
+    "udp_clientName": "Warner Bros. Discovery",
+    "udp_clientId": "17575"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q816725X",
+    "clientId": "16725",
+    "clientName": "County of Orange",
+    "udp_normalizedClientId": "16725",
+    "udp_clientName": "County of Orange",
+    "udp_clientId": "16725"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q616754E",
+    "clientId": "16754",
+    "clientName": "Siemens Energy",
+    "udp_normalizedClientId": "16754",
+    "udp_clientName": "Siemens Energy",
+    "udp_clientId": "16754"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "17644",
+    "clientName": "Exxon Mobil Corporation - Canada",
+    "udp_normalizedClientId": "17644",
+    "udp_clientName": "IOL/EM companies in Canada",
+    "udp_clientId": "17644"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q704777F",
+    "clientId": "4777",
+    "clientName": "GE Healthcare",
+    "udp_normalizedClientId": "04777",
+    "udp_clientName": "GE HealthCare",
+    "udp_clientId": "04777"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q316878M",
+    "clientId": "16878",
+    "clientName": "Thermo Fisher Scientific Inc.",
+    "udp_normalizedClientId": "16878",
+    "udp_clientName": "Thermo Fisher Scientific",
+    "udp_clientId": "16878"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q717657X",
+    "clientId": "17657",
+    "clientName": "Paragon System, Inc.",
+    "udp_normalizedClientId": "17657",
+    "udp_clientName": "",
+    "udp_clientId": "17657"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "17640",
+    "clientName": "Siemens Energy Canada Limited",
+    "udp_normalizedClientId": "17640",
+    "udp_clientName": "Siemens Energy",
+    "udp_clientId": "17640"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q402878M",
+    "clientId": "2878",
+    "clientName": "The Procter and Gamble Company",
+    "udp_normalizedClientId": "02878",
+    "udp_clientName": "Procter & Gamble",
+    "udp_clientId": "02878"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q217678F",
+    "clientId": "17678",
+    "clientName": "GE Aerospace",
+    "udp_normalizedClientId": "17678",
+    "udp_clientName": "GE Aerospace",
+    "udp_clientId": "17678"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q417613F",
+    "clientId": "17613",
+    "clientName": "GE Vernova"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "(blank)",
+    "clientId": "17728",
+    "clientName": "NewCo"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q002360E",
+    "clientId": "2360",
+    "clientName": "Macy's",
+    "udp_normalizedClientId": "02360",
+    "udp_clientName": "Macy's Inc.",
+    "udp_clientId": "02360"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q803974E",
+    "clientId": "3974",
+    "clientName": "Nordstrom",
+    "udp_normalizedClientId": "03974",
+    "udp_clientName": "Nordstrom",
+    "udp_clientId": "03974"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q907812E",
+    "clientId": "7812",
+    "clientName": "PwC",
+    "udp_normalizedClientId": "07812",
+    "udp_clientName": "PricewaterhouseCoopers LLP",
+    "udp_clientId": "07812"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q906607E",
+    "clientId": "6607",
+    "clientName": "Starbucks",
+    "udp_normalizedClientId": "06607",
+    "udp_clientName": "Starbucks",
+    "udp_clientId": "06607"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q300936N",
+    "clientId": "936",
+    "clientName": "Target",
+    "udp_normalizedClientId": "00936",
+    "udp_clientName": "Target",
+    "udp_clientId": "D0936"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q815757M",
+    "clientId": "15757",
+    "clientName": "Huntington Ingalls",
+    "udp_normalizedClientId": "15757",
+    "udp_clientName": "",
+    "udp_clientId": "15757"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "1122",
+    "clientName": "Land O'Lakes, Inc.",
+    "udp_normalizedClientId": "01122",
+    "udp_clientName": "Land O'Lakes",
+    "udp_clientId": "01122"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "1433",
+    "clientName": "Deluxe Corporation",
+    "udp_normalizedClientId": "01433",
+    "udp_clientName": "Deluxe Corporation",
+    "udp_clientId": "01433"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "1634",
+    "clientName": "Graphic Packaging Int'l, LLC.",
+    "udp_normalizedClientId": "01634",
+    "udp_clientName": "Graphic Packaging Int'l, Inc.",
+    "udp_clientId": "01634"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "2215",
+    "clientName": "Allianz",
+    "udp_normalizedClientId": "02215",
+    "udp_clientName": "",
+    "udp_clientId": "02215"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "2936",
+    "clientName": "Wolters Kluwer",
+    "udp_normalizedClientId": "02936",
+    "udp_clientName": "Wolters Kluwer",
+    "udp_clientId": "02936"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "2961",
+    "clientName": "ACCO",
+    "udp_normalizedClientId": "02961",
+    "udp_clientName": "ACCO",
+    "udp_clientId": "02961"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "3060",
+    "clientName": "Dole",
+    "udp_normalizedClientId": "03060",
+    "udp_clientName": "Dole",
+    "udp_clientId": "03060"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "3239",
+    "clientName": "Analog Devices Inc.",
+    "udp_normalizedClientId": "03239",
+    "udp_clientName": "Analog Devices, Inc",
+    "udp_clientId": "03239"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "5317",
+    "clientName": "Estee Lauder Companies",
+    "udp_normalizedClientId": "05317",
+    "udp_clientName": "Estee Lauder",
+    "udp_clientId": "05317"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "Q910021X",
+    "clientId": "6028",
+    "clientName": "PPL",
+    "udp_normalizedClientId": "06028",
+    "udp_clientName": "Rhode Island Energy",
+    "udp_clientId": "06028"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "6223",
+    "clientName": "BMC Software Inc.",
+    "udp_normalizedClientId": "06223",
+    "udp_clientName": "BMC Software, Inc.",
+    "udp_clientId": "06223"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "7961",
+    "clientName": "Airgas, Inc.",
+    "udp_normalizedClientId": "07961",
+    "udp_clientName": "MetLife - Airgas, Inc.",
+    "udp_clientId": "07961"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "8397",
+    "clientName": "Experian",
+    "udp_normalizedClientId": "08397",
+    "udp_clientName": "Experian",
+    "udp_clientId": "08397"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "9159",
+    "clientName": "Ryman Hospitality Properties",
+    "udp_normalizedClientId": "09159",
+    "udp_clientName": "Ryman Hospitality Properties",
+    "udp_clientId": "09159"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "9252",
+    "clientName": "TechnipFMC",
+    "udp_normalizedClientId": "09252",
+    "udp_clientName": "TechnipFMC",
+    "udp_clientId": "09252"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "9264",
+    "clientName": "Stericycle",
+    "udp_normalizedClientId": "09264",
+    "udp_clientName": "Stericycle",
+    "udp_clientId": "09264"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "10272",
+    "clientName": "Avangrid",
+    "udp_normalizedClientId": "10272",
+    "udp_clientName": "Iberdrola USA",
+    "udp_clientId": "10272"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "10840",
+    "clientName": "eBay Inc.",
+    "udp_normalizedClientId": "10840",
+    "udp_clientName": "eBay Inc.",
+    "udp_clientId": "10840"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "12467",
+    "clientName": "BlackRock",
+    "udp_normalizedClientId": "12467",
+    "udp_clientName": "BlackRock",
+    "udp_clientId": "12467"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "15050",
+    "clientName": "CoreLogic",
+    "udp_normalizedClientId": "15050",
+    "udp_clientName": "CoreLogic",
+    "udp_clientId": "15050"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "16516",
+    "clientName": "PayPal Inc.",
+    "udp_normalizedClientId": "16516",
+    "udp_clientName": "PayPal Inc.",
+    "udp_clientId": "16516"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "Q910021X",
+    "clientId": "34153",
+    "clientName": "MVW",
+    "udp_normalizedClientId": "34153",
+    "udp_clientName": "MVW",
+    "udp_clientId": "34153"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "6749",
+    "clientName": "ABB, Inc.",
+    "udp_normalizedClientId": "06749",
+    "udp_clientName": "ABB, Inc.",
+    "udp_clientId": "06749"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "16512",
+    "clientName": "American Express GBT",
+    "udp_normalizedClientId": "16512",
+    "udp_clientName": "American Express GBT",
+    "udp_clientId": "16512"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "16465",
+    "clientName": "Aramco",
+    "udp_normalizedClientId": "16465",
+    "udp_clientName": "Saudi Aramco",
+    "udp_clientId": "16465"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "5551",
+    "clientName": "ATI",
+    "udp_normalizedClientId": "05551",
+    "udp_clientName": "ATI",
+    "udp_clientId": "05551"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "2553",
+    "clientName": "Barclays",
+    "udp_normalizedClientId": "02553",
+    "udp_clientName": "Barclays",
+    "udp_clientId": "02553"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "4818",
+    "clientName": "Boehringer Ingelheim"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "1211",
+    "clientName": "Colgate",
+    "udp_normalizedClientId": "01211",
+    "udp_clientName": "MetLife - Colgate-Palmolive",
+    "udp_clientId": "01211"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "16502",
+    "clientName": "Envoy Air",
+    "udp_normalizedClientId": "16502",
+    "udp_clientName": "Envoy",
+    "udp_clientId": "16502"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "1892",
+    "clientName": "GRACE",
+    "udp_normalizedClientId": "01892",
+    "udp_clientName": "GRACE",
+    "udp_clientId": "01892"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "2799",
+    "clientName": "Henkel",
+    "udp_normalizedClientId": "02799",
+    "udp_clientName": "Henkel Corporation",
+    "udp_clientId": "02799"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "5035",
+    "clientName": "Hubbell Incorporated",
+    "udp_normalizedClientId": "05035",
+    "udp_clientName": "Hubbell",
+    "udp_clientId": "05035"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "17574",
+    "clientName": "Kenvue",
+    "udp_normalizedClientId": "17574",
+    "udp_clientName": "Kenvue",
+    "udp_clientId": "17574"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "3326",
+    "clientName": "Lumbermens Mutual Casualty",
+    "udp_normalizedClientId": "03326",
+    "udp_clientName": "Lumbermens Mutual Casualty",
+    "udp_clientId": "03326"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "3149",
+    "clientName": "Martin Marietta",
+    "udp_normalizedClientId": "03149",
+    "udp_clientName": "Martin Marietta",
+    "udp_clientId": "03149"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "5063",
+    "clientName": "Puget Sound Energy",
+    "udp_normalizedClientId": "05063",
+    "udp_clientName": "Puget Sound Energy",
+    "udp_clientId": "05063"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "10825",
+    "clientName": "Reynolds American",
+    "udp_normalizedClientId": "10825",
+    "udp_clientName": "Reynolds American",
+    "udp_clientId": "10825"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "3406",
+    "clientName": "Roche",
+    "udp_normalizedClientId": "03406",
+    "udp_clientName": "Roche",
+    "udp_clientId": "03406"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "5077",
+    "clientName": "Solvay",
+    "udp_normalizedClientId": "05077",
+    "udp_clientName": "Solvay",
+    "udp_clientId": "05077"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "3266",
+    "clientName": "Swiss Re",
+    "udp_normalizedClientId": "03266",
+    "udp_clientName": "Swiss Re",
+    "udp_clientId": "03266"
+  },
+  {
+    "providerDirect": "N",
+    "testCfg": "QB16452X",
+    "clientId": "2729",
+    "clientName": "Transocean",
+    "udp_normalizedClientId": "02729",
+    "udp_clientName": "Transocean",
+    "udp_clientId": "02729"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "33941",
+    "clientName": "Viatris",
+    "udp_normalizedClientId": "33941",
+    "udp_clientName": "Viatris",
+    "udp_clientId": "33941"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "4739",
+    "clientName": "Zimmer Biomet",
+    "udp_normalizedClientId": "04739",
+    "udp_clientName": "Zimmer Biomet",
+    "udp_clientId": "04739"
+  },
+  {
+    "providerDirect": "Y",
+    "testCfg": "QB16452X",
+    "clientId": "17500",
+    "clientName": "ZimVie",
+    "udp_normalizedClientId": "17500",
+    "udp_clientName": "ZimVie",
+    "udp_clientId": "17500"
+  }
+]
