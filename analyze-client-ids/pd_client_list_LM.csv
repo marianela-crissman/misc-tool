@@ -21,7 +21,7 @@ Y	1366	International Paper Company	Q601366P
 Y	1426	The First American Corporation	Q201426X
 Y	2525	Rockwell Automation, Inc.	QB02525E
 Y	1442	CNA Financial Corporation	Q71442TW
-N	5866	FCA Canada Inc.	Q75866TW		
+N	5866	FCA Canada Inc.	Q75866TW
 N	3223	General Motors of Canada Limited	Q43223TE
 N	3099	IBM Canada Ltd.	Q03099TW
 Y	16896	TIAA	Q616896E
@@ -50,11 +50,11 @@ Y	7263	U.S. Foodservice, Inc.	QB07263X
 Y	1924	Equitable Holdings, Inc	Q801924X
 Y	2017	CenterPoint Energy Inc.	Q902017N
 N	2461	Unisys Corporation	Q902461X
-Y	695	Johnson and Johnson	Q40695TX
+			
 N	10162	Cintas Corporation	Q910162F
 N	8666	Best Buy Co., Inc.	Q108666X
 N	398	Eli Lilly and Company	Q900398F
-Y	2346	The Boeing Company	Q902346F
+			
 N	16418	Phillips 66	Q616418X
 Y	1698	PepsiCo, Inc.	QB01698O
 Y	1012	Cigna	Q401012O
@@ -76,9 +76,9 @@ Y	3349	ATnT Inc.	Q203349V
 Y	982	McDonalds Corporation	QB00982E
 Y	892	The Sherwin-Williams Company	Q800892D
 N	7796	Koch Industries, Inc.	(blank)
-Y	16581	Alight Solutions	Q916581E
+			
 N	1700	Ford Motor Company	Q001700M
-N	1576	Deere and Company	Q001576P
+N	1576	Deere and Company	Q001576P, Q001576P
 Y	175	Archer Daniels Midland Company	Q600175X
 Y	3356	Meijer, Inc.	Q303356F
 Y	726	BP p.l.c.	Q10726TE
@@ -87,14 +87,10 @@ Y	3537	Siemens Corporation	Q903537B
 Y	1215	United Parcel Service, Inc.	Q11215TE
 Y	5434	Prudential Financial	Q305434F
 N	632	KeyCorp	Q600632W
-			
 Y	2524	J. C. Penney Company, Inc.	Q32524TW
-			
 Y	6957	Thomson Reuters	Q46957TX
 N	5977	Dell Inc.	Q8597TX
-			
 Y	2378	Arconic	QB023788H
-			
 Y	5790	American Honda Motor Co	Q205790E
 Y	1487	Bank of America	Q201487P
 Y	7544	Nokia Inc. (Legacy Alcatel-Lucent)	Q27544TD
@@ -106,11 +102,8 @@ Y	8853	BAE Systems	Q108853X
 Y	2233	Aon Corporation	QB02233X
 Y	9086	T-Mobile	Q809086X
 Y	8101	Westinghouse Electric Company LLC	Q78101TW
-			
 Y	10197	DaVita Inc.	Q210197V
-			
 N	16662	DuPont SpecCo	Q216662E
-			
 Y	5923	NiSource	Q35923TE
 Y	10820	Discover Financial Services	Q210820W
 Y	9813	JP Morgan Chase and Co. - For TBA use only	Q609813D
@@ -125,8 +118,35 @@ Y	16557	Alcoa USA	Q016557G
 Y	16611	Mass General Brigham	Q316611E
 N	6399	Alcon Laboratories	Q601697X
 N	33940	Alight Canada N.S. ULC	Q816628E
-			
 N	10688	Cisco Canada	Q816628E
+Y	7641	Cisco Systems, Inc.	Q007641C
+Y	17521	Constellation Energy Group, Inc.	Q217521F
+N	32852	L3Harris Canada	(blank)
+N	2265	Lincoln National Corporation	(blank)
+Y	16717	Carrier Corporation	Q916717N
+N	10020	Novartis Pharma Canada Inc.	(blank)
+Y	620	Schlumberger Limited	QB00620X
+Y	9408	Siemens Healthineers	Q709408C
+N	17541	Haleon	Q117541D
+N	17602	Kyndryl Canada	(blank)
+Y	17575	Warner Bros. Discovery	Q417575W
+Y	16725	County of Orange	Q816725X
+Y	16754	Siemens Energy	Q616754E
+N	17644	Exxon Mobil Corporation - Canada	(blank)
+Y	4777	GE Healthcare	Q704777F
+Y	16878	Thermo Fisher Scientific Inc.	Q316878M
+Y	17657	Paragon System, Inc.	Q717657X
+N	17640	Siemens Energy Canada Limited	(blank)
+Y	2878	The Procter and Gamble Company	Q402878M
+Y	17678	GE Aerospace	Q217678F
+Y	17613	GE Vernova	Q417613F
+Y	17728	NewCo	Q317728C
+Y	2360	Macy's	Q002360E
+Y	3974	Nordstrom	Q803974E
+Y	7812	PwC	Q907812E
+Y	6607	Starbucks	Q906607E
+N	936	Target	Q300936N
+Y	15757	Huntington Ingalls	Q815757M
 			
 Y	7641	Cisco Systems, Inc.	Q007641C
 Y	17521	Constellation Energy Group, Inc.	Q217521F
