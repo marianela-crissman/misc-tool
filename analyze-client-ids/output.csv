@@ -27,7 +27,7 @@ N,3099,IBM Canada Ltd.,Q03099TW,03099,03099,
 Y,16896,TIAA,Q616896E,16896,16896,
 Y,1645,American Express,Q801645E,01645,01645,AMEX
 Y,2009,Parker-Hannifin Corporation,Q702009W,02009,02009,Parker-Hannifin
-Y,16757,Campbell Soup Company,Q316757X,,,
+Y,1955,Campbell Soup Company,Q316757X,01955,16757,Campbell
 Y,1040,Walgreen Co.,Q301040X,01040,01040,Walgreens Family of Companies
 Y,3742,United Health Group,Q03742E,03742,03742,UnitedHealth Group
 N,3902,GlaxoSmithKline,Q003902E,03902,03902,GlaxoSmithKline
@@ -50,9 +50,11 @@ Y,7263,"U.S. Foodservice, Inc.",QB07263X,07263,07263,MetLife - US Foods
 Y,1924,"Equitable Holdings, Inc",Q801924X,01924,01924,"Equitable Holdings, Inc"
 Y,2017,CenterPoint Energy Inc.,Q902017N,02017,02017,CenterPoint Energy
 N,2461,Unisys Corporation,Q902461X,02461,02461,Unisys
+Y,695,Johnson and Johnson,Q40695TX,00695,J0695,
 N,10162,Cintas Corporation,Q910162F,10162,10162,Cintas Corporation
 N,8666,"Best Buy Co., Inc.",Q108666X,08666,08666,"Best Buy Co., Inc."
 N,398,Eli Lilly and Company,Q900398F,00398,L0398,Lilly Del Caribe
+Y,2346,The Boeing Company,Q902346F,02346,B2346,BOEING
 N,16418,Phillips 66,Q616418X,16418,16418,Phillips 66
 Y,1698,"PepsiCo, Inc.",QB01698O,01698,01698,
 Y,1012,Cigna,Q401012O,01012,01012,The Cigna Group
@@ -74,8 +76,9 @@ Y,3349,ATnT Inc.,Q203349V,03349,S3349,AT&T
 Y,982,McDonalds Corporation,QB00982E,00982,00982,
 Y,892,The Sherwin-Williams Company,Q800892D,00892,00892,Sherwin-Williams
 N,7796,"Koch Industries, Inc.",(blank),07796,07796,Koch Industries
+Y,16581,Alight Solutions,Q916581E,16581,16581,Alight Solutions
 N,1700,Ford Motor Company,Q001700M,01700,01700,Ford Motor Company
-N,1576,Deere and Company,"Q001576P, Q001576P",01576,01576,Deere & Company
+N,1576,Deere and Company,Q001576P,01576,01576,Deere & Company
 Y,175,Archer Daniels Midland Company,Q600175X,00175,00175,ADM
 Y,3356,"Meijer, Inc.",Q303356F,03356,03356,
 Y,726,BP p.l.c.,Q10726TE,00726,A0726,BP America
@@ -138,34 +141,6 @@ Y,2878,The Procter and Gamble Company,Q402878M,02878,02878,Procter & Gamble
 Y,17678,GE Aerospace,Q217678F,17678,17678,GE Aerospace
 Y,17613,GE Vernova,Q417613F,,,
 Y,17728,NewCo,Q317728C,,,
-Y,2360,Macy's,Q002360E,02360,02360,Macy's Inc.
-Y,3974,Nordstrom,Q803974E,03974,03974,Nordstrom
-Y,7812,PwC,Q907812E,07812,07812,PricewaterhouseCoopers LLP
-Y,6607,Starbucks,Q906607E,06607,06607,Starbucks
-N,936,Target,Q300936N,00936,D0936,Target
-Y,15757,Huntington Ingalls,Q815757M,15757,15757,
-Y,7641,"Cisco Systems, Inc.",Q007641C,07641,07641,Cisco
-Y,17521,"Constellation Energy Group, Inc.",Q217521F,17521,17521,HCSC - Constellation Energy Corporation
-N,32852,L3Harris Canada,(blank),32852,32852,L3Harris
-N,2265,Lincoln National Corporation,(blank),02265,02265,Lincoln National
-Y,16717,Carrier Corporation,Q916717N,16717,16717,
-N,10020,Novartis Pharma Canada Inc.,(blank),10020,10020,Novartis
-Y,620,Schlumberger Limited,QB00620X,00620,00620,SLB
-Y,9408,Siemens Healthineers,Q709408C,09408,09408,Siemens Healthineers
-N,17541,Haleon,Q117541D,17541,17541,Haleon
-N,17602,Kyndryl Canada,(blank),17602,17602,Kyndryl
-Y,17575,Warner Bros. Discovery,Q417575W,17575,17575,Warner Bros. Discovery
-Y,16725,County of Orange,Q816725X,16725,16725,County of Orange
-Y,16754,Siemens Energy,Q616754E,16754,16754,Siemens Energy
-N,17644,Exxon Mobil Corporation - Canada,(blank),17644,17644,IOL/EM companies in Canada
-Y,4777,GE Healthcare,Q704777F,04777,04777,GE HealthCare
-Y,16878,Thermo Fisher Scientific Inc.,Q316878M,16878,16878,Thermo Fisher Scientific
-Y,17657,"Paragon System, Inc.",Q717657X,17657,17657,
-N,17640,Siemens Energy Canada Limited,(blank),17640,17640,Siemens Energy
-Y,2878,The Procter and Gamble Company,Q402878M,02878,02878,Procter & Gamble
-Y,17678,GE Aerospace,Q217678F,17678,17678,GE Aerospace
-Y,17613,GE Vernova,Q417613F,,,
-N,17728,NewCo,(blank),,,
 Y,2360,Macy's,Q002360E,02360,02360,Macy's Inc.
 Y,3974,Nordstrom,Q803974E,03974,03974,Nordstrom
 Y,7812,PwC,Q907812E,07812,07812,PricewaterhouseCoopers LLP
